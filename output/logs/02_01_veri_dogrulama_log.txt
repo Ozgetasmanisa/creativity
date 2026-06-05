@@ -1,0 +1,2048 @@
+
+=== VERI BOYUTU ===
+  Toplam satir : 26993
+  Toplam sutun : 123
+  Toplam okul  : 891
+
+=== ULKE DAGILIMI ===
+  TUR :  6999 ogrenci, 196 okul
+  KOR :  6288 ogrenci, 185 okul
+  FIN :  8272 ogrenci, 240 okul
+  MEX :  5434 ogrenci, 270 okul
+
+  CREATEFF ve CREATSCH veride mevcut.
+
+=== DEGISKEN KONTROLU ===
+  Ana vars   : BULLIED, BELONG, FEELSAFE, CREATEFF
+  Kontrol    : ESCS, ANXMAT, FAMSUP, CREATSCH, ST004D01T
+  CWC vars   : ANXMAT_CWC, STRESAGR_CWC, EMOCOAGR_CWC, TEACHSUP_CWC, DISCLIM_CWC, ESCS_CWC, FAMSUP_CWC, BULLIED_CWC, RELATST_CWC, CREATEFF_CWC, CREATSCH_CWC
+  SCH vars   : ANXMAT_SCH, STRESAGR_SCH, EMOCOAGR_SCH, TEACHSUP_SCH, DISCLIM_SCH, ESCS_SCH, FAMSUP_SCH, BULLIED_SCH, RELATST_SCH, CREATEFF_SCH, CREATSCH_SCH
+  BRR rep    : 80 / 80
+
+=== VERI TIPI DUZELTME ===
+  Haven etiketli sutun: 1 (numeric'e cevirilecek: 0)
+  Haric tutulan (ID)  : CNT
+  Numeric zorlamasi: 0 sutun donusturuldu
+
+=== EKSIK VERI RAPORU ===
+  BULLIED              NA:    35 (  0.1%)
+  BELONG               NA:     0 (  0.0%)
+  FEELSAFE             NA:    21 (  0.1%)
+  CREATEFF             NA:   334 (  1.2%)
+  ESCS                 NA:     0 (  0.0%)
+  ANXMAT               NA:     0 (  0.0%)
+  FAMSUP               NA:  1256 (  4.7%)
+  CREATSCH             NA:   509 (  1.9%)
+  ST004D01T            NA:     0 (  0.0%)
+  ANXMAT_CWC           NA:     0 (  0.0%)
+  STRESAGR_CWC         NA:  5835 ( 21.6%)
+  EMOCOAGR_CWC         NA:   582 (  2.2%)
+  TEACHSUP_CWC         NA:     0 (  0.0%)
+  DISCLIM_CWC          NA:     0 (  0.0%)
+  ESCS_CWC             NA:     0 (  0.0%)
+  FAMSUP_CWC           NA:  1256 (  4.7%)
+  BULLIED_CWC          NA:    35 (  0.1%)
+  RELATST_CWC          NA:    52 (  0.2%)
+  CREATEFF_CWC         NA:   334 (  1.2%)
+  CREATSCH_CWC         NA:   509 (  1.9%)
+  ANXMAT_SCH           NA:     0 (  0.0%)
+  STRESAGR_SCH         NA:  5434 ( 20.1%)
+  EMOCOAGR_SCH         NA:     2 (  0.0%)
+  TEACHSUP_SCH         NA:     0 (  0.0%)
+  DISCLIM_SCH          NA:     0 (  0.0%)
+  ESCS_SCH             NA:     0 (  0.0%)
+  FAMSUP_SCH           NA:     8 (  0.0%)
+  BULLIED_SCH          NA:     0 (  0.0%)
+  RELATST_SCH          NA:     0 (  0.0%)
+  CREATEFF_SCH         NA:     3 (  0.0%)
+  CREATSCH_SCH         NA:     5 (  0.0%)
+
+=== EKSIK VERI — ULKE BAZLI ===
+
+  --- TUR ---
+    BULLIED              0.1%
+    BELONG               0.0%
+    FEELSAFE             0.1%
+    CREATEFF             0.7%
+
+  --- KOR ---
+    BULLIED              0.0%
+    BELONG               0.0%
+    FEELSAFE             0.0%
+    CREATEFF             0.2%
+
+  --- FIN ---
+    BULLIED              0.3%
+    BELONG               0.0%
+    FEELSAFE             0.1%
+    CREATEFF             2.2%
+
+  --- MEX ---
+    BULLIED              0.1%
+    BELONG               0.0%
+    FEELSAFE             0.1%
+    CREATEFF             1.7%
+
+
+=== BIFIE NESNELERI OLUSTURULUYOR ===
+  BIFIE'ye verilecek sutun sayisi: 114 (toplam: 123)
+
+============ TUR ============
++++ Generate BIFIE.data object
+|*|
+|-|
+  BULLIED       M =  -0.206 (SE = 0.020)  SD = 1.042
+  BELONG        M =  -0.294 (SE = 0.012)  SD = 0.975
+  FEELSAFE      M =  -0.417 (SE = 0.017)  SD = 1.031
+  CREATEFF      M =   0.122 (SE = 0.013)  SD = 1.026
+  ESCS          M =  -1.180 (SE = 0.038)  SD = 1.173
+  ANXMAT        M =   0.594 (SE = 0.020)  SD = 1.218
+  FAMSUP        M =  -0.186 (SE = 0.016)  SD = 1.092
+  CREATSCH      M =   0.037 (SE = 0.021)  SD = 1.168
+
+============ KOR ============
++++ Generate BIFIE.data object
+|*|
+|-|
+  BULLIED       M =  -0.912 (SE = 0.010)  SD = 0.678
+  BELONG        M =   0.262 (SE = 0.016)  SD = 1.001
+  FEELSAFE      M =   0.115 (SE = 0.024)  SD = 0.981
+  CREATEFF      M =  -0.133 (SE = 0.021)  SD = 1.123
+  ESCS          M =   0.228 (SE = 0.026)  SD = 0.813
+  ANXMAT        M =  -0.052 (SE = 0.022)  SD = 1.189
+  FAMSUP        M =   0.060 (SE = 0.017)  SD = 0.965
+  CREATSCH      M =   0.150 (SE = 0.018)  SD = 1.050
+
+============ FIN ============
++++ Generate BIFIE.data object
+|*|
+|-|
+  BULLIED       M =  -0.407 (SE = 0.015)  SD = 0.976
+  BELONG        M =   0.109 (SE = 0.013)  SD = 1.020
+  FEELSAFE      M =   0.386 (SE = 0.014)  SD = 0.932
+  CREATEFF      M =  -0.048 (SE = 0.014)  SD = 0.992
+  ESCS          M =   0.281 (SE = 0.016)  SD = 0.794
+  ANXMAT        M =  -0.290 (SE = 0.017)  SD = 1.148
+  FAMSUP        M =   0.021 (SE = 0.015)  SD = 0.966
+  CREATSCH      M =   0.066 (SE = 0.014)  SD = 0.942
+
+============ MEX ============
++++ Generate BIFIE.data object
+|*|
+|-|
+  BULLIED       M =  -0.443 (SE = 0.016)  SD = 0.954
+  BELONG        M =  -0.165 (SE = 0.016)  SD = 1.053
+  FEELSAFE      M =  -0.346 (SE = 0.017)  SD = 1.029
+  CREATEFF      M =   0.112 (SE = 0.018)  SD = 0.949
+  ESCS          M =  -0.867 (SE = 0.035)  SD = 1.145
+  ANXMAT        M =   0.543 (SE = 0.017)  SD = 1.020
+  FAMSUP        M =  -0.008 (SE = 0.017)  SD = 1.091
+  CREATSCH      M =   0.403 (SE = 0.018)  SD = 1.038
+
+>>> Betimsel: output/tables/02_tablo01_betimsel.csv
+
+
+=== KORELASYON MATRISLERI ===
+
+--- TUR ---
+|*|
+|-|
+  r(BULLIED, BELONG) = -0.221 (SE = 0.036)
+  r(BULLIED, FEELSAFE) = -0.193 (SE = 0.041)
+  r(BULLIED, CREATEFF) = -0.025 (SE = 0.048)
+  r(BELONG, CREATEFF) = 0.130 (SE = 0.053)
+  r(FEELSAFE, CREATEFF) = 0.089 (SE = 0.050)
+
+--- KOR ---
+|*|
+|-|
+  r(BULLIED, BELONG) = -0.124 (SE = 0.065)
+  r(BULLIED, FEELSAFE) = -0.062 (SE = 0.072)
+  r(BULLIED, CREATEFF) = 0.036 (SE = 0.054)
+  r(BELONG, CREATEFF) = 0.217 (SE = 0.050)
+  r(FEELSAFE, CREATEFF) = 0.121 (SE = 0.044)
+
+--- FIN ---
+|*|
+|-|
+  r(BULLIED, BELONG) = -0.338 (SE = 0.035)
+  r(BULLIED, FEELSAFE) = -0.221 (SE = 0.052)
+  r(BULLIED, CREATEFF) = 0.004 (SE = 0.043)
+  r(BELONG, CREATEFF) = 0.138 (SE = 0.053)
+  r(FEELSAFE, CREATEFF) = 0.073 (SE = 0.045)
+
+--- MEX ---
+|*|
+|-|
+  r(BULLIED, BELONG) = -0.221 (SE = 0.047)
+  r(BULLIED, FEELSAFE) = -0.137 (SE = 0.048)
+  r(BULLIED, CREATEFF) = -0.040 (SE = 0.050)
+  r(BELONG, CREATEFF) = 0.154 (SE = 0.057)
+  r(FEELSAFE, CREATEFF) = 0.093 (SE = 0.052)
+
+>>> Korelasyon: output/tables/02_tablo02_korelasyon.csv
+
+
+=== ICC ANALIZI (Bos Model) ===
+  Kriter: ICC > .05 -> MLM gerekli (Heck & Thomas, 2015)
+
+
+============ TUR ============
+  ICC: BULLIED ...
+ 
+Imputation 1 | Group 1 |-------- 
+    tau2=0.0396 | sigma2=1.0551 | ICC=0.0362 | MLM: HAYIR
+  ICC: BELONG ...
+ 
+Imputation 1 | Group 1 |-------- 
+    tau2=0.0092 | sigma2=0.9363 | ICC=0.0097 | MLM: HAYIR
+  ICC: FEELSAFE ...
+ 
+Imputation 1 | Group 1 |-------- 
+    tau2=0.0168 | sigma2=1.0432 | ICC=0.0158 | MLM: HAYIR
+  ICC: CREATEFF ...
+ 
+Imputation 1 | Group 1 |-------- 
+    tau2=0.0061 | sigma2=1.0598 | ICC=0.0057 | MLM: HAYIR
+
+============ KOR ============
+  ICC: BULLIED ...
+ 
+Imputation 1 | Group 1 |-------- 
+    tau2=0.0115 | sigma2=0.4090 | ICC=0.0273 | MLM: HAYIR
+  ICC: BELONG ...
+ 
+Imputation 1 | Group 1 |-------- 
+    tau2=0.0091 | sigma2=1.0145 | ICC=0.0089 | MLM: HAYIR
+  ICC: FEELSAFE ...
+ 
+Imputation 1 | Group 1 |-------- 
+    tau2=0.0478 | sigma2=0.9137 | ICC=0.0497 | MLM: HAYIR
+  ICC: CREATEFF ...
+ 
+Imputation 1 | Group 1 |-------- 
+    tau2=0.0212 | sigma2=1.2196 | ICC=0.0171 | MLM: HAYIR
+
+============ FIN ============
+  ICC: BULLIED ...
+ 
+Imputation 1 | Group 1 |-------- 
+    tau2=0.0176 | sigma2=0.9463 | ICC=0.0182 | MLM: HAYIR
+  ICC: BELONG ...
+ 
+Imputation 1 | Group 1 |-------- 
+    tau2=0.0080 | sigma2=1.0354 | ICC=0.0077 | MLM: HAYIR
+  ICC: FEELSAFE ...
+ 
+Imputation 1 | Group 1 |-------- 
+    tau2=0.0104 | sigma2=0.8796 | ICC=0.0116 | MLM: HAYIR
+  ICC: CREATEFF ...
+ 
+Imputation 1 | Group 1 |-------- 
+    tau2=0.0143 | sigma2=0.9914 | ICC=0.0142 | MLM: HAYIR
+
+============ MEX ============
+  ICC: BULLIED ...
+ 
+Imputation 1 | Group 1 |-------- 
+    tau2=0.0235 | sigma2=0.8851 | ICC=0.0258 | MLM: HAYIR
+  ICC: BELONG ...
+ 
+Imputation 1 | Group 1 |-------- 
+    tau2=0.0018 | sigma2=1.0977 | ICC=0.0017 | MLM: HAYIR
+  ICC: FEELSAFE ...
+ 
+Imputation 1 | Group 1 |-------- 
+    tau2=0.0313 | sigma2=1.0171 | ICC=0.0299 | MLM: HAYIR
+  ICC: CREATEFF ...
+ 
+Imputation 1 | Group 1 |-------- 
+    tau2=0.0158 | sigma2=0.8846 | ICC=0.0175 | MLM: HAYIR
+
+
+=====================================================
+       ICC OZET TABLOSU — Makale 2 (Q1)
+=====================================================
+ ulke degisken   tau2 sigma2    ICC mlm_gerekli
+  TUR  BULLIED 0.0396 1.0551 0.0362       HAYIR
+  TUR   BELONG 0.0092 0.9363 0.0097       HAYIR
+  TUR FEELSAFE 0.0168 1.0432 0.0158       HAYIR
+  TUR CREATEFF 0.0061 1.0598 0.0057       HAYIR
+  KOR  BULLIED 0.0115 0.4090 0.0273       HAYIR
+  KOR   BELONG 0.0091 1.0145 0.0089       HAYIR
+  KOR FEELSAFE 0.0478 0.9137 0.0497       HAYIR
+  KOR CREATEFF 0.0212 1.2196 0.0171       HAYIR
+  FIN  BULLIED 0.0176 0.9463 0.0182       HAYIR
+  FIN   BELONG 0.0080 1.0354 0.0077       HAYIR
+  FIN FEELSAFE 0.0104 0.8796 0.0116       HAYIR
+  FIN CREATEFF 0.0143 0.9914 0.0142       HAYIR
+  MEX  BULLIED 0.0235 0.8851 0.0258       HAYIR
+  MEX   BELONG 0.0018 1.0977 0.0017       HAYIR
+  MEX FEELSAFE 0.0313 1.0171 0.0299       HAYIR
+  MEX CREATEFF 0.0158 0.8846 0.0175       HAYIR
+=====================================================
+
+>>> ICC: output/tables/02_tablo03_ICC.csv
+>>> BIFIE nesneleri: data/derived/02_bdat_4ulke.rds
+
+
+=====================================================
+       ADIM 1 TAMAMLANDI — Makale 2 (Q1)
+=====================================================
+  Ciktilar:
+    02_tablo01_betimsel.csv
+    02_tablo02_korelasyon.csv
+    02_tablo03_ICC.csv
+    02_bdat_4ulke.rds
+
+  Sonraki adim: 2_02_dogrudan_etkiler.R
+=====================================================
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+=== VERI BOYUTU ===
+  Toplam satir : 26993
+  Toplam sutun : 123
+  Toplam okul  : 891
+
+=== ULKE DAGILIMI ===
+  TUR :  6999 ogrenci, 196 okul
+  KOR :  6288 ogrenci, 185 okul
+  FIN :  8272 ogrenci, 240 okul
+  MEX :  5434 ogrenci, 270 okul
+
+  CREATEFF ve CREATSCH veride mevcut.
+
+=== DEGISKEN KONTROLU ===
+  Ana vars   : BULLIED, BELONG, FEELSAFE, CREATEFF
+  Kontrol    : ESCS, ANXMAT, FAMSUP, CREATSCH, ST004D01T
+  CWC vars   : ANXMAT_CWC, STRESAGR_CWC, EMOCOAGR_CWC, TEACHSUP_CWC, DISCLIM_CWC, ESCS_CWC, FAMSUP_CWC, BULLIED_CWC, RELATST_CWC, CREATEFF_CWC, CREATSCH_CWC
+  SCH vars   : ANXMAT_SCH, STRESAGR_SCH, EMOCOAGR_SCH, TEACHSUP_SCH, DISCLIM_SCH, ESCS_SCH, FAMSUP_SCH, BULLIED_SCH, RELATST_SCH, CREATEFF_SCH, CREATSCH_SCH
+  BRR rep    : 80 / 80
+
+=== VERI TIPI DUZELTME ===
+  Haven etiketli sutun: 1 (numeric'e cevirilecek: 0)
+  Haric tutulan (ID)  : CNT
+  Numeric zorlamasi: 0 sutun donusturuldu
+
+=== EKSIK VERI RAPORU ===
+  BULLIED              NA:    35 (  0.1%)
+  BELONG               NA:     0 (  0.0%)
+  FEELSAFE             NA:    21 (  0.1%)
+  CREATEFF             NA:   334 (  1.2%)
+  ESCS                 NA:     0 (  0.0%)
+  ANXMAT               NA:     0 (  0.0%)
+  FAMSUP               NA:  1256 (  4.7%)
+  CREATSCH             NA:   509 (  1.9%)
+  ST004D01T            NA:     0 (  0.0%)
+  ANXMAT_CWC           NA:     0 (  0.0%)
+  STRESAGR_CWC         NA:  5835 ( 21.6%)
+  EMOCOAGR_CWC         NA:   582 (  2.2%)
+  TEACHSUP_CWC         NA:     0 (  0.0%)
+  DISCLIM_CWC          NA:     0 (  0.0%)
+  ESCS_CWC             NA:     0 (  0.0%)
+  FAMSUP_CWC           NA:  1256 (  4.7%)
+  BULLIED_CWC          NA:    35 (  0.1%)
+  RELATST_CWC          NA:    52 (  0.2%)
+  CREATEFF_CWC         NA:   334 (  1.2%)
+  CREATSCH_CWC         NA:   509 (  1.9%)
+  ANXMAT_SCH           NA:     0 (  0.0%)
+  STRESAGR_SCH         NA:  5434 ( 20.1%)
+  EMOCOAGR_SCH         NA:     2 (  0.0%)
+  TEACHSUP_SCH         NA:     0 (  0.0%)
+  DISCLIM_SCH          NA:     0 (  0.0%)
+  ESCS_SCH             NA:     0 (  0.0%)
+  FAMSUP_SCH           NA:     8 (  0.0%)
+  BULLIED_SCH          NA:     0 (  0.0%)
+  RELATST_SCH          NA:     0 (  0.0%)
+  CREATEFF_SCH         NA:     3 (  0.0%)
+  CREATSCH_SCH         NA:     5 (  0.0%)
+
+=== EKSIK VERI — ULKE BAZLI ===
+
+  --- TUR ---
+    BULLIED              0.1%
+    BELONG               0.0%
+    FEELSAFE             0.1%
+    CREATEFF             0.7%
+
+  --- KOR ---
+    BULLIED              0.0%
+    BELONG               0.0%
+    FEELSAFE             0.0%
+    CREATEFF             0.2%
+
+  --- FIN ---
+    BULLIED              0.3%
+    BELONG               0.0%
+    FEELSAFE             0.1%
+    CREATEFF             2.2%
+
+  --- MEX ---
+    BULLIED              0.1%
+    BELONG               0.0%
+    FEELSAFE             0.1%
+    CREATEFF             1.7%
+
+
+=== BIFIE NESNELERI OLUSTURULUYOR ===
+  BIFIE'ye verilecek sutun sayisi: 114 (toplam: 123)
+
+============ TUR ============
++++ Generate BIFIE.data object
+|*|
+|-|
+  BULLIED       M =  -0.206 (SE = 0.020)  SD = 1.042
+  BELONG        M =  -0.294 (SE = 0.012)  SD = 0.975
+  FEELSAFE      M =  -0.417 (SE = 0.017)  SD = 1.031
+  CREATEFF      M =   0.122 (SE = 0.013)  SD = 1.026
+  ESCS          M =  -1.180 (SE = 0.038)  SD = 1.173
+  ANXMAT        M =   0.594 (SE = 0.020)  SD = 1.218
+  FAMSUP        M =  -0.186 (SE = 0.016)  SD = 1.092
+  CREATSCH      M =   0.037 (SE = 0.021)  SD = 1.168
+
+============ KOR ============
++++ Generate BIFIE.data object
+|*|
+|-|
+  BULLIED       M =  -0.912 (SE = 0.010)  SD = 0.678
+  BELONG        M =   0.262 (SE = 0.016)  SD = 1.001
+  FEELSAFE      M =   0.115 (SE = 0.024)  SD = 0.981
+  CREATEFF      M =  -0.133 (SE = 0.021)  SD = 1.123
+  ESCS          M =   0.228 (SE = 0.026)  SD = 0.813
+  ANXMAT        M =  -0.052 (SE = 0.022)  SD = 1.189
+  FAMSUP        M =   0.060 (SE = 0.017)  SD = 0.965
+  CREATSCH      M =   0.150 (SE = 0.018)  SD = 1.050
+
+============ FIN ============
++++ Generate BIFIE.data object
+|*|
+|-|
+  BULLIED       M =  -0.407 (SE = 0.015)  SD = 0.976
+  BELONG        M =   0.109 (SE = 0.013)  SD = 1.020
+  FEELSAFE      M =   0.386 (SE = 0.014)  SD = 0.932
+  CREATEFF      M =  -0.048 (SE = 0.014)  SD = 0.992
+  ESCS          M =   0.281 (SE = 0.016)  SD = 0.794
+  ANXMAT        M =  -0.290 (SE = 0.017)  SD = 1.148
+  FAMSUP        M =   0.021 (SE = 0.015)  SD = 0.966
+  CREATSCH      M =   0.066 (SE = 0.014)  SD = 0.942
+
+============ MEX ============
++++ Generate BIFIE.data object
+|*|
+|-|
+  BULLIED       M =  -0.443 (SE = 0.016)  SD = 0.954
+  BELONG        M =  -0.165 (SE = 0.016)  SD = 1.053
+  FEELSAFE      M =  -0.346 (SE = 0.017)  SD = 1.029
+  CREATEFF      M =   0.112 (SE = 0.018)  SD = 0.949
+  ESCS          M =  -0.867 (SE = 0.035)  SD = 1.145
+  ANXMAT        M =   0.543 (SE = 0.017)  SD = 1.020
+  FAMSUP        M =  -0.008 (SE = 0.017)  SD = 1.091
+  CREATSCH      M =   0.403 (SE = 0.018)  SD = 1.038
+
+>>> Betimsel: output/tables/02_tablo01_betimsel.csv
+
+
+=== KORELASYON MATRISLERI ===
+
+--- TUR ---
+|*|
+|-|
+  r(BULLIED, BELONG) = -0.221 (SE = 0.036)
+  r(BULLIED, FEELSAFE) = -0.193 (SE = 0.041)
+  r(BULLIED, CREATEFF) = -0.025 (SE = 0.048)
+  r(BELONG, CREATEFF) = 0.130 (SE = 0.053)
+  r(FEELSAFE, CREATEFF) = 0.089 (SE = 0.050)
+
+--- KOR ---
+|*|
+|-|
+  r(BULLIED, BELONG) = -0.124 (SE = 0.065)
+  r(BULLIED, FEELSAFE) = -0.062 (SE = 0.072)
+  r(BULLIED, CREATEFF) = 0.036 (SE = 0.054)
+  r(BELONG, CREATEFF) = 0.217 (SE = 0.050)
+  r(FEELSAFE, CREATEFF) = 0.121 (SE = 0.044)
+
+--- FIN ---
+|*|
+|-|
+  r(BULLIED, BELONG) = -0.338 (SE = 0.035)
+  r(BULLIED, FEELSAFE) = -0.221 (SE = 0.052)
+  r(BULLIED, CREATEFF) = 0.004 (SE = 0.043)
+  r(BELONG, CREATEFF) = 0.138 (SE = 0.053)
+  r(FEELSAFE, CREATEFF) = 0.073 (SE = 0.045)
+
+--- MEX ---
+|*|
+|-|
+  r(BULLIED, BELONG) = -0.221 (SE = 0.047)
+  r(BULLIED, FEELSAFE) = -0.137 (SE = 0.048)
+  r(BULLIED, CREATEFF) = -0.040 (SE = 0.050)
+  r(BELONG, CREATEFF) = 0.154 (SE = 0.057)
+  r(FEELSAFE, CREATEFF) = 0.093 (SE = 0.052)
+
+>>> Korelasyon: output/tables/02_tablo02_korelasyon.csv
+
+
+=== ICC ANALIZI (Bos Model) ===
+  Kriter: ICC > .05 -> MLM gerekli (Heck & Thomas, 2015)
+
+
+============ TUR ============
+  ICC: BULLIED ...
+ 
+Imputation 1 | Group 1 |-------- 
+    tau2=0.0396 | sigma2=1.0551 | ICC=0.0362 | MLM: HAYIR
+  ICC: BELONG ...
+ 
+Imputation 1 | Group 1 |-------- 
+    tau2=0.0092 | sigma2=0.9363 | ICC=0.0097 | MLM: HAYIR
+  ICC: FEELSAFE ...
+ 
+Imputation 1 | Group 1 |-------- 
+    tau2=0.0168 | sigma2=1.0432 | ICC=0.0158 | MLM: HAYIR
+  ICC: CREATEFF ...
+ 
+Imputation 1 | Group 1 |-------- 
+    tau2=0.0061 | sigma2=1.0598 | ICC=0.0057 | MLM: HAYIR
+
+============ KOR ============
+  ICC: BULLIED ...
+ 
+Imputation 1 | Group 1 |-------- 
+    tau2=0.0115 | sigma2=0.4090 | ICC=0.0273 | MLM: HAYIR
+  ICC: BELONG ...
+ 
+Imputation 1 | Group 1 |-------- 
+    tau2=0.0091 | sigma2=1.0145 | ICC=0.0089 | MLM: HAYIR
+  ICC: FEELSAFE ...
+ 
+Imputation 1 | Group 1 |-------- 
+    tau2=0.0478 | sigma2=0.9137 | ICC=0.0497 | MLM: HAYIR
+  ICC: CREATEFF ...
+ 
+Imputation 1 | Group 1 |-------- 
+    tau2=0.0212 | sigma2=1.2196 | ICC=0.0171 | MLM: HAYIR
+
+============ FIN ============
+  ICC: BULLIED ...
+ 
+Imputation 1 | Group 1 |-------- 
+    tau2=0.0176 | sigma2=0.9463 | ICC=0.0182 | MLM: HAYIR
+  ICC: BELONG ...
+ 
+Imputation 1 | Group 1 |-------- 
+    tau2=0.0080 | sigma2=1.0354 | ICC=0.0077 | MLM: HAYIR
+  ICC: FEELSAFE ...
+ 
+Imputation 1 | Group 1 |-------- 
+    tau2=0.0104 | sigma2=0.8796 | ICC=0.0116 | MLM: HAYIR
+  ICC: CREATEFF ...
+ 
+Imputation 1 | Group 1 |-------- 
+    tau2=0.0143 | sigma2=0.9914 | ICC=0.0142 | MLM: HAYIR
+
+============ MEX ============
+  ICC: BULLIED ...
+ 
+Imputation 1 | Group 1 |-------- 
+    tau2=0.0235 | sigma2=0.8851 | ICC=0.0258 | MLM: HAYIR
+  ICC: BELONG ...
+ 
+Imputation 1 | Group 1 |-------- 
+    tau2=0.0018 | sigma2=1.0977 | ICC=0.0017 | MLM: HAYIR
+  ICC: FEELSAFE ...
+ 
+Imputation 1 | Group 1 |-------- 
+    tau2=0.0313 | sigma2=1.0171 | ICC=0.0299 | MLM: HAYIR
+  ICC: CREATEFF ...
+ 
+Imputation 1 | Group 1 |-------- 
+    tau2=0.0158 | sigma2=0.8846 | ICC=0.0175 | MLM: HAYIR
+
+
+=====================================================
+       ICC OZET TABLOSU — Makale 2 (Q1)
+=====================================================
+ ulke degisken   tau2 sigma2    ICC mlm_gerekli
+  TUR  BULLIED 0.0396 1.0551 0.0362       HAYIR
+  TUR   BELONG 0.0092 0.9363 0.0097       HAYIR
+  TUR FEELSAFE 0.0168 1.0432 0.0158       HAYIR
+  TUR CREATEFF 0.0061 1.0598 0.0057       HAYIR
+  KOR  BULLIED 0.0115 0.4090 0.0273       HAYIR
+  KOR   BELONG 0.0091 1.0145 0.0089       HAYIR
+  KOR FEELSAFE 0.0478 0.9137 0.0497       HAYIR
+  KOR CREATEFF 0.0212 1.2196 0.0171       HAYIR
+  FIN  BULLIED 0.0176 0.9463 0.0182       HAYIR
+  FIN   BELONG 0.0080 1.0354 0.0077       HAYIR
+  FIN FEELSAFE 0.0104 0.8796 0.0116       HAYIR
+  FIN CREATEFF 0.0143 0.9914 0.0142       HAYIR
+  MEX  BULLIED 0.0235 0.8851 0.0258       HAYIR
+  MEX   BELONG 0.0018 1.0977 0.0017       HAYIR
+  MEX FEELSAFE 0.0313 1.0171 0.0299       HAYIR
+  MEX CREATEFF 0.0158 0.8846 0.0175       HAYIR
+=====================================================
+
+>>> ICC: output/tables/02_tablo03_ICC.csv
+>>> BIFIE nesneleri: data/derived/02_bdat_4ulke.rds
+
+
+=====================================================
+       ADIM 1 TAMAMLANDI — Makale 2 (Q1)
+=====================================================
+  Ciktilar:
+    02_tablo01_betimsel.csv
+    02_tablo02_korelasyon.csv
+    02_tablo03_ICC.csv
+    02_bdat_4ulke.rds
+
+  Sonraki adim: 2_02_dogrudan_etkiler.R
+=====================================================
+
+>>> Log: output/logs/02_01_veri_dogrulama_log.txt
+
+=== SCRIPT SONU ===
+
+=====================================================
+  Makale 2 (Q1) — Adim 2: Paralel Mediation
+  BULLIED -> BELONG/FEELSAFE -> CREATEFF
+  Design-based MLM + CWC + Monte Carlo CI
+  TUR / KOR / FIN / MEX
+=====================================================
+
+Kovaryatlar: ESCS_CWC, ANXMAT_CWC, FAMSUP_CWC, ST004D01T
+
+
+=== PARALEL MEDIATION ANALIZI ===
+
+
+========================================
+  TUR — Paralel Mediation
+========================================
+
+  --- Model A1: BELONG ~ BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+
+  --- Model A2: FEELSAFE ~ BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+
+  --- Model B: CREATEFF ~ BULLIED_CWC + BELONG_CWC + FEELSAFE_CWC ---
+    BELONG_CWC olusturuluyor...
+    FEELSAFE_CWC olusturuluyor...
+    BIFIE nesnesi yeniden olusturuluyor (BELONG_CWC/FEELSAFE_CWC ekleniyor)...
++++ Generate BIFIE.data object
+|*|
+|-|
+    A1 ve A2 yeniden hesaplaniyor...
+
+=====================================================
+  Makale 2 (Q1) — Adim 2: Paralel Mediation
+  BULLIED -> BELONG/FEELSAFE -> CREATEFF
+  Design-based MLM + CWC + Monte Carlo CI
+  TUR / KOR / FIN / MEX
+=====================================================
+
+Kovaryatlar: ESCS_CWC, ANXMAT_CWC, FAMSUP_CWC, ST004D01T
+
+  BELONG_CWC olusturuluyor...
+    BELONG_CWC M~0: 0.0000 | BELONG_SCH M: -0.022
+
+  FEELSAFE_CWC olusturuluyor...
+    FEELSAFE_CWC M~0: -0.0000 | FEELSAFE_SCH M: -0.039
+  >>> dat_4ulke_Q1.rds guncellendi (BELONG_CWC/FEELSAFE_CWC)
+
+
+=== PARALEL MEDIATION ANALIZI ===
+  BIFIE sutun sayisi: 113
+
+
+========================================
+  TUR — Paralel Mediation
+========================================
+  N = 6999 ogrenci, 196 okul
++++ Generate BIFIE.data object
+|*|
+|-|
+
+  --- Model A1: BELONG ~ BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+
+  --- Model A2: FEELSAFE ~ BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+
+  --- Model B: CREATEFF ~ BULLIED_CWC + BELONG_CWC + FEELSAFE_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+
+  --- Dolayli Etkiler (Monte Carlo CI, 20K sim) ---
+ 
+Imputation 1 | Group 1 |-------- 
+=== STAT KOLONLARI ===
+[1] "parameter" "est"       "SE"        "t"         "df"        "p"         "VarRep"   
+
+=== STAT TABLOSU (ilk 15 satir) ===
+                              parameter          est           SE      t  df             p       VarRep
+beta_(Intercept)       beta_(Intercept) -0.264371670 0.1202526666  -2.20 Inf  2.780690e-02 1.446070e-02
+beta_BULLIED_CWC       beta_BULLIED_CWC -0.183499482 0.0354837686  -5.17 Inf  2.340940e-07 1.259098e-03
+beta_ESCS_CWC             beta_ESCS_CWC  0.044476776 0.0420975217   1.06 Inf  2.891446e-01 1.772201e-03
+beta_ANXMAT_CWC         beta_ANXMAT_CWC -0.037170792 0.0413289520  -0.90 Inf  3.681203e-01 1.708082e-03
+beta_FAMSUP_CWC         beta_FAMSUP_CWC  0.087047707 0.0410624268   2.12 Inf  3.400605e-02 1.686123e-03
+beta_ST004D01T           beta_ST004D01T -0.020935391 0.0824744831  -0.25 Inf  8.025873e-01 6.802040e-03
+Var_(Intercept)         Var_(Intercept)  0.010353980 0.0117825139   0.88 Inf  3.788593e-01 1.388276e-04
+ResidVar                       ResidVar  0.885306920 0.0071336238 124.10 Inf  0.000000e+00 5.088859e-05
+ExplVar_Lev2_Fixed   ExplVar_Lev2_Fixed -0.001686351 0.0007402441  -2.28 Inf  2.260769e-02 5.479613e-07
+ExplVar_Lev2_Random ExplVar_Lev2_Random  0.000000000 0.0000000000    NaN Inf           NaN 0.000000e+00
+ResidVar_Lev2             ResidVar_Lev2  0.010353980 0.0117825139   0.88 Inf  3.788593e-01 1.388276e-04
+ExplVar_Lev1_Fixed   ExplVar_Lev1_Fixed  0.060905522 0.0248580206   2.45 Inf  1.428562e-02 6.179212e-04
+ExplVar_Lev1_Random ExplVar_Lev1_Random  0.000000000 0.0000000000    NaN Inf           NaN 0.000000e+00
+ResidVar_Lev1             ResidVar_Lev1  0.885306920 0.0071336238 124.10 Inf  0.000000e+00 5.088859e-05
+Var_Total                     Var_Total  0.954880070 0.0249468920  38.28 Inf 1.319155e-320 6.223474e-04
+
+=== OUTPUT yapisi ===
+ [1] "parsM"           "parsrepM"        "parsVar"         "parsL"           "GG"              "iterM"          
+ [7] "iterMrep"        "fvcovM"          "Npers"           "Nclusters"       "NP"              "idcluster_table"
+[13] "Sigma_W_yXM"     "Sigma_B_yXM"     "Sigma_W_yZM"     "Sigma_B_yZM"     "totmean_yXM"     "totmean_yZM"    
+
+=====================================================
+  Makale 2 (Q1) — Adim 2: Paralel Mediation
+  BULLIED -> BELONG/FEELSAFE -> CREATEFF
+  Design-based MLM + CWC + Monte Carlo CI
+  TUR / KOR / FIN / MEX
+=====================================================
+
+Kovaryatlar: ESCS_CWC, ANXMAT_CWC, FAMSUP_CWC, ST004D01T
+
+  BELONG_CWC zaten veride mevcut.
+
+  FEELSAFE_CWC zaten veride mevcut.
+  >>> dat_4ulke_Q1.rds guncellendi (BELONG_CWC/FEELSAFE_CWC)
+
+
+=== PARALEL MEDIATION ANALIZI ===
+  BIFIE sutun sayisi: 113
+
+
+========================================
+  TUR — Paralel Mediation
+========================================
+  N = 6999 ogrenci, 196 okul
++++ Generate BIFIE.data object
+|*|
+|-|
+
+  --- Model A1: BELONG ~ BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    a1 = -0.1835 (SE = 0.0355, p = 0.0000)
+
+  --- Model A2: FEELSAFE ~ BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    a2 = -0.1782 (SE = 0.0439, p = 0.0000)
+
+  --- Model B: CREATEFF ~ BULLIED_CWC + BELONG_CWC + FEELSAFE_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    c' (dogrudan)     = 0.0230 (SE = 0.0443, p = 0.6031)
+    b1 (BELONG)       = 0.0933 (SE = 0.0540, p = 0.0836)
+    b2 (FEELSAFE)     = 0.0332 (SE = 0.0492, p = 0.5029)
+
+  --- Dolayli Etkiler (Monte Carlo CI, 20K sim) ---
+    ind1 (BELONG)   = -0.0171 [-0.0391, 0.0021] HAYIR
+    ind2 (FEELSAFE) = -0.0059 [-0.0247, 0.0117] HAYIR
+    Toplam dolayli  = -0.0230
+    c' (dogrudan)   = 0.0230
+    Toplam etki     = -0.0001
+    Mediation %     = NA%
+
+
+========================================
+  KOR — Paralel Mediation
+========================================
+  N = 6288 ogrenci, 185 okul
++++ Generate BIFIE.data object
+|*|
+|-|
+
+  --- Model A1: BELONG ~ BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    a1 = -0.1690 (SE = 0.0890, p = 0.0574)
+
+  --- Model A2: FEELSAFE ~ BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    a2 = -0.0873 (SE = 0.0734, p = 0.2340)
+
+  --- Model B: CREATEFF ~ BULLIED_CWC + BELONG_CWC + FEELSAFE_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    c' (dogrudan)     = 0.0876 (SE = 0.0714, p = 0.2187)
+    b1 (BELONG)       = 0.1823 (SE = 0.0565, p = 0.0012)
+    b2 (FEELSAFE)     = 0.0156 (SE = 0.0520, p = 0.7642)
+
+  --- Dolayli Etkiler (Monte Carlo CI, 20K sim) ---
+    ind1 (BELONG)   = -0.0308 [-0.0743, 0.0011] HAYIR
+    ind2 (FEELSAFE) = -0.0014 [-0.0151, 0.0107] HAYIR
+    Toplam dolayli  = -0.0322
+    c' (dogrudan)   = 0.0876
+    Toplam etki     = 0.0555
+    Mediation %     = -58.0%
+
+
+========================================
+  FIN — Paralel Mediation
+========================================
+  N = 8272 ogrenci, 240 okul
++++ Generate BIFIE.data object
+|*|
+|-|
+
+  --- Model A1: BELONG ~ BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    a1 = -0.3086 (SE = 0.0407, p = 0.0000)
+
+  --- Model A2: FEELSAFE ~ BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    a2 = -0.1811 (SE = 0.0471, p = 0.0001)
+
+  --- Model B: CREATEFF ~ BULLIED_CWC + BELONG_CWC + FEELSAFE_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    c' (dogrudan)     = 0.0619 (SE = 0.0441, p = 0.1585)
+    b1 (BELONG)       = 0.1126 (SE = 0.0674, p = 0.0949)
+    b2 (FEELSAFE)     = 0.0262 (SE = 0.0495, p = 0.5961)
+
+  --- Dolayli Etkiler (Monte Carlo CI, 20K sim) ---
+    ind1 (BELONG)   = -0.0347 [-0.0775, 0.0057] HAYIR
+    ind2 (FEELSAFE) = -0.0047 [-0.0239, 0.0135] HAYIR
+    Toplam dolayli  = -0.0395
+    c' (dogrudan)   = 0.0619
+    Toplam etki     = 0.0225
+    Mediation %     = -175.7%
+
+
+========================================
+  MEX — Paralel Mediation
+========================================
+  N = 5434 ogrenci, 270 okul
++++ Generate BIFIE.data object
+|*|
+|-|
+
+  --- Model A1: BELONG ~ BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    a1 = -0.2268 (SE = 0.0576, p = 0.0001)
+
+  --- Model A2: FEELSAFE ~ BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    a2 = -0.1386 (SE = 0.0469, p = 0.0032)
+
+  --- Model B: CREATEFF ~ BULLIED_CWC + BELONG_CWC + FEELSAFE_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    c' (dogrudan)     = 0.0165 (SE = 0.0478, p = 0.7339)
+    b1 (BELONG)       = 0.0971 (SE = 0.0504, p = 0.0536)
+    b2 (FEELSAFE)     = 0.0387 (SE = 0.0548, p = 0.4777)
+
+  --- Dolayli Etkiler (Monte Carlo CI, 20K sim) ---
+    ind1 (BELONG)   = -0.0220 [-0.0500, 0.0002] HAYIR
+    ind2 (FEELSAFE) = -0.0054 [-0.0229, 0.0102] HAYIR
+    Toplam dolayli  = -0.0274
+    c' (dogrudan)   = 0.0165
+    Toplam etki     = -0.0109
+    Mediation %     = 251.4%
+
+
+=====================================================
+     PARALEL MEDIATION OZET — Makale 2 (Q1)
+=====================================================
+
+  Dolayli Etkiler:
+ ulke           yol       ab_est ci_lower_95  ci_upper_95 anlamli
+  TUR   ind1_BELONG -0.017123307 -0.03905591 0.0021055823   HAYIR
+  TUR ind2_FEELSAFE -0.005907371 -0.02470373 0.0117225939   HAYIR
+  TUR       c_prime  0.022964893          NA           NA   HAYIR
+  KOR   ind1_BELONG -0.030809257 -0.07432605 0.0011301975   HAYIR
+  KOR ind2_FEELSAFE -0.001365153 -0.01508091 0.0107179801   HAYIR
+  KOR       c_prime  0.087632030          NA           NA   HAYIR
+  FIN   ind1_BELONG -0.034738657 -0.07752574 0.0057143751   HAYIR
+  FIN ind2_FEELSAFE -0.004740230 -0.02385124 0.0135417398   HAYIR
+  FIN       c_prime  0.061948738          NA           NA   HAYIR
+  MEX   ind1_BELONG -0.022032803 -0.04998965 0.0001837937   HAYIR
+  MEX ind2_FEELSAFE -0.005359231 -0.02286937 0.0102263860   HAYIR
+  MEX       c_prime  0.016494075          NA           NA   HAYIR
+
+
+  Mediation Oranlari:
+ ulke      ab_est pct_mediation
+  TUR -0.02303068            NA
+  KOR -0.03217441     -58.01621
+  FIN -0.03947889    -175.69714
+  MEX -0.02739203     251.35013
+
+
+=====================================================
+  Ciktilar:
+    02_tablo04_regresyon_katsayilari.csv
+    02_tablo05_dolayli_etkiler.csv
+    02_tablo06_model_ozet.csv
+    02_modeller_mediation.rds
+
+  Sonraki adim: 2_03_ek_analizler.R
+    -> Duyarlilik: kontrol degisken varyasyonlari
+    -> Contrast: ind1 vs ind2 (BELONG vs FEELSAFE)
+    -> Cinsiyet moderasyonu (opsiyonel)
+=====================================================
+
+>>> Log: output/logs/02_02_mediation_log.txt
+
+=== SCRIPT SONU ===
+
+=====================================================
+  Makale 2 (Q1) — Adim 3: Seri Mediation
+  BULLIED -> BELONG/FEELSAFE -> CREATSCH -> CREATEFF
+  TUR / KOR / FIN / MEX
+=====================================================
+
+=== CWC/SCH KONTROL ===
+  BULLIED_CWC zaten mevcut.
+  BELONG_CWC zaten mevcut.
+  FEELSAFE_CWC zaten mevcut.
+  CREATEFF_CWC zaten mevcut.
+  CREATSCH_CWC zaten mevcut.
+  ESCS_CWC zaten mevcut.
+  ANXMAT_CWC zaten mevcut.
+  FAMSUP_CWC zaten mevcut.
+
+Kovaryatlar: ESCS_CWC, ANXMAT_CWC, FAMSUP_CWC, ST004D01T
+BIFIE sutun sayisi: 114
+
+
+=== SERI MEDIATION ANALIZI ===
+
+
+========================================
+  TUR — Seri Mediation
+========================================
+  N = 6999 ogrenci, 196 okul
++++ Generate BIFIE.data object
+|*|
+|-|
+
+  --- M1: BELONG ~ BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    a1 = -0.1835 (SE=0.0355, p=0.0000)
+
+  --- M2: FEELSAFE ~ BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    a2 = -0.1782 (SE=0.0439, p=0.0000)
+
+  --- M3: CREATSCH ~ BELONG_CWC + FEELSAFE_CWC + BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    d1 (BELONG)   = 0.1501 (SE=0.0487, p=0.0021)
+    d2 (FEELSAFE) = 0.0991 (SE=0.0465, p=0.0332)
+    a3 (BULLIED)  = -0.0584 (SE=0.0494, p=0.2380)
+
+  --- M4: CREATEFF ~ BELONG_CWC + FEELSAFE_CWC + CREATSCH_CWC + BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    c' (dogrudan)    = 0.0375 (SE=0.0391, p=0.3371)
+    b1 (BELONG)      = 0.0575 (SE=0.0502, p=0.2501)
+    b2 (FEELSAFE)    = 0.0107 (SE=0.0451, p=0.8103)
+    b3 (CREATSCH)    = 0.2341 (SE=0.0411, p=0.0000)
+
+  --- Dolayli Etkiler (Monte Carlo CI, 20K sim) ---
+    serial1 (BELONG->CREATSCH)   = -0.00645 [-0.01252, -0.00201] EVET
+    serial2 (FEELSAFE->CREATSCH) = -0.00413 [-0.00949, -0.00032] EVET
+    simple1 (BELONG direct)      = -0.01056 [-0.03014, 0.00745] HAYIR
+    simple2 (FEELSAFE direct)    = -0.00191 [-0.01842, 0.01476] HAYIR
+    simple3 (CREATSCH direct)    = -0.01366 [-0.03837, 0.00927] HAYIR
+
+    Toplam dolayli  = -0.0367
+    c' (dogrudan)   = 0.0375
+    Toplam etki     = 0.0008
+    Mediation %     = NA%
+
+
+========================================
+  KOR — Seri Mediation
+========================================
+  N = 6288 ogrenci, 185 okul
++++ Generate BIFIE.data object
+|*|
+|-|
+
+  --- M1: BELONG ~ BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    a1 = -0.1690 (SE=0.0890, p=0.0574)
+
+  --- M2: FEELSAFE ~ BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    a2 = -0.0873 (SE=0.0734, p=0.2340)
+
+  --- M3: CREATSCH ~ BELONG_CWC + FEELSAFE_CWC + BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    d1 (BELONG)   = 0.1612 (SE=0.0603, p=0.0076)
+    d2 (FEELSAFE) = 0.0763 (SE=0.0427, p=0.0735)
+    a3 (BULLIED)  = -0.0809 (SE=0.0893, p=0.3628)
+
+  --- M4: CREATEFF ~ BELONG_CWC + FEELSAFE_CWC + CREATSCH_CWC + BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    c' (dogrudan)    = 0.1103 (SE=0.0646, p=0.0873)
+    b1 (BELONG)      = 0.1361 (SE=0.0599, p=0.0232)
+    b2 (FEELSAFE)    = -0.0067 (SE=0.0533, p=0.9045)
+    b3 (CREATSCH)    = 0.2840 (SE=0.0902, p=0.0016)
+
+  --- Dolayli Etkiler (Monte Carlo CI, 20K sim) ---
+    serial1 (BELONG->CREATSCH)   = -0.00774 [-0.02226, 0.00042] HAYIR
+    serial2 (FEELSAFE->CREATSCH) = -0.00189 [-0.00752, 0.00134] HAYIR
+    simple1 (BELONG direct)      = -0.02299 [-0.06163, 0.00213] HAYIR
+    simple2 (FEELSAFE direct)    = 0.00058 [-0.01186, 0.01443] HAYIR
+    simple3 (CREATSCH direct)    = -0.02299 [-0.08243, 0.02814] HAYIR
+
+    Toplam dolayli  = -0.0550
+    c' (dogrudan)   = 0.1103
+    Toplam etki     = 0.0552
+    Mediation %     = -99.6%
+
+
+========================================
+  FIN — Seri Mediation
+========================================
+  N = 8272 ogrenci, 240 okul
++++ Generate BIFIE.data object
+|*|
+|-|
+
+  --- M1: BELONG ~ BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    a1 = -0.3086 (SE=0.0407, p=0.0000)
+
+  --- M2: FEELSAFE ~ BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    a2 = -0.1811 (SE=0.0471, p=0.0001)
+
+  --- M3: CREATSCH ~ BELONG_CWC + FEELSAFE_CWC + BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    d1 (BELONG)   = 0.1139 (SE=0.0496, p=0.0220)
+    d2 (FEELSAFE) = 0.0373 (SE=0.0464, p=0.4237)
+    a3 (BULLIED)  = -0.0449 (SE=0.0447, p=0.3125)
+
+  --- M4: CREATEFF ~ BELONG_CWC + FEELSAFE_CWC + CREATSCH_CWC + BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    c' (dogrudan)    = 0.0755 (SE=0.0424, p=0.0751)
+    b1 (BELONG)      = 0.0722 (SE=0.0602, p=0.2301)
+    b2 (FEELSAFE)    = 0.0134 (SE=0.0489, p=0.7872)
+    b3 (CREATSCH)    = 0.3430 (SE=0.0526, p=0.0000)
+
+  --- Dolayli Etkiler (Monte Carlo CI, 20K sim) ---
+    serial1 (BELONG->CREATSCH)   = -0.01205 [-0.02467, -0.00174] EVET
+    serial2 (FEELSAFE->CREATSCH) = -0.00231 [-0.00895, 0.00343] HAYIR
+    simple1 (BELONG direct)      = -0.02228 [-0.05960, 0.01404] HAYIR
+    simple2 (FEELSAFE direct)    = -0.00243 [-0.02091, 0.01605] HAYIR
+    simple3 (CREATSCH direct)    = -0.01541 [-0.04719, 0.01506] HAYIR
+
+    Toplam dolayli  = -0.0545
+    c' (dogrudan)   = 0.0755
+    Toplam etki     = 0.0210
+    Mediation %     = -259.2%
+
+
+========================================
+  MEX — Seri Mediation
+========================================
+  N = 5434 ogrenci, 270 okul
++++ Generate BIFIE.data object
+|*|
+|-|
+
+  --- M1: BELONG ~ BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    a1 = -0.2268 (SE=0.0576, p=0.0001)
+
+  --- M2: FEELSAFE ~ BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    a2 = -0.1386 (SE=0.0469, p=0.0032)
+
+  --- M3: CREATSCH ~ BELONG_CWC + FEELSAFE_CWC + BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    d1 (BELONG)   = 0.0448 (SE=0.0658, p=0.4965)
+    d2 (FEELSAFE) = 0.1167 (SE=0.0679, p=0.0854)
+    a3 (BULLIED)  = -0.0756 (SE=0.0524, p=0.1499)
+
+  --- M4: CREATEFF ~ BELONG_CWC + FEELSAFE_CWC + CREATSCH_CWC + BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    c' (dogrudan)    = 0.0365 (SE=0.0467, p=0.4354)
+    b1 (BELONG)      = 0.0840 (SE=0.0448, p=0.0601)
+    b2 (FEELSAFE)    = 0.0080 (SE=0.0489, p=0.8729)
+    b3 (CREATSCH)    = 0.2619 (SE=0.0505, p=0.0000)
+
+  --- Dolayli Etkiler (Monte Carlo CI, 20K sim) ---
+    serial1 (BELONG->CREATSCH)   = -0.00266 [-0.01163, 0.00519] HAYIR
+    serial2 (FEELSAFE->CREATSCH) = -0.00423 [-0.01148, 0.00053] HAYIR
+    simple1 (BELONG direct)      = -0.01905 [-0.04378, 0.00065] HAYIR
+    simple2 (FEELSAFE direct)    = -0.00111 [-0.01570, 0.01355] HAYIR
+    simple3 (CREATSCH direct)    = -0.01979 [-0.04995, 0.00724] HAYIR
+
+    Toplam dolayli  = -0.0468
+    c' (dogrudan)   = 0.0365
+    Toplam etki     = -0.0103
+    Mediation %     = 453.9%
+
+
+=====================================================
+     SERI MEDIATION OZET — Makale 2 (Q1)
+=====================================================
+
+  Seri dolayli etkiler (a * d * b3):
+ ulke                       yol          est        ci_lo         ci_hi   sig
+  TUR   serial1_BELONG_CREATSCH -0.006446721 -0.012524454 -0.0020117624  EVET
+  TUR serial2_FEELSAFE_CREATSCH -0.004130756 -0.009486165 -0.0003231445  EVET
+  KOR   serial1_BELONG_CREATSCH -0.007739073 -0.022262312  0.0004226056 HAYIR
+  KOR serial2_FEELSAFE_CREATSCH -0.001893839 -0.007519835  0.0013409356 HAYIR
+  FIN   serial1_BELONG_CREATSCH -0.012052345 -0.024669233 -0.0017354541  EVET
+  FIN serial2_FEELSAFE_CREATSCH -0.002313349 -0.008948409  0.0034288165 HAYIR
+  MEX   serial1_BELONG_CREATSCH -0.002659317 -0.011626351  0.0051884621 HAYIR
+  MEX serial2_FEELSAFE_CREATSCH -0.004233697 -0.011483696  0.0005305256 HAYIR
+
+
+  Basit dolayli etkiler (a * b):
+ ulke              yol          est       ci_lo        ci_hi   sig
+  TUR   simple1_BELONG -0.010557019 -0.03013771 0.0074491138 HAYIR
+  TUR simple2_FEELSAFE -0.001911033 -0.01841617 0.0147602038 HAYIR
+  TUR simple3_CREATSCH -0.013659449 -0.03836776 0.0092705977 HAYIR
+  KOR   simple1_BELONG -0.022993217 -0.06163454 0.0021314461 HAYIR
+  KOR simple2_FEELSAFE  0.000581996 -0.01185859 0.0144260420 HAYIR
+  KOR simple3_CREATSCH -0.022987057 -0.08243289 0.0281413568 HAYIR
+  FIN   simple1_BELONG -0.022276212 -0.05960448 0.0140431276 HAYIR
+  FIN simple2_FEELSAFE -0.002425207 -0.02091264 0.0160479931 HAYIR
+  FIN simple3_CREATSCH -0.015412616 -0.04719035 0.0150567994 HAYIR
+  MEX   simple1_BELONG -0.019049417 -0.04377827 0.0006532648 HAYIR
+  MEX simple2_FEELSAFE -0.001107589 -0.01569521 0.0135486557 HAYIR
+  MEX simple3_CREATSCH -0.019791030 -0.04995163 0.0072395888 HAYIR
+
+
+  Toplam etki:
+ ulke            yol           est   sig        pct
+  TUR total_indirect -0.0367049774  <NA>         NA
+  TUR        c_prime  0.0375372581 HAYIR         NA
+  TUR   total_effect  0.0008322807  <NA>         NA
+  KOR total_indirect -0.0550311896  <NA>  -99.62149
+  KOR        c_prime  0.1102714676 HAYIR         NA
+  KOR   total_effect  0.0552402780  <NA>         NA
+  FIN total_indirect -0.0544797288  <NA> -259.15472
+  FIN        c_prime  0.0755018150 HAYIR         NA
+  FIN   total_effect  0.0210220863  <NA>         NA
+  MEX total_indirect -0.0468410486  <NA>  453.90506
+  MEX        c_prime  0.0365214791 HAYIR         NA
+  MEX   total_effect -0.0103195695  <NA>         NA
+
+
+=====================================================
+  Ciktilar:
+    02_tablo07_seri_katsayilar.csv
+    02_tablo08_seri_dolayli.csv
+    02_modeller_seri.rds
+=====================================================
+
+>>> Log: output/logs/02_03_seri_mediation_log.txt
+
+=== SCRIPT SONU ===
+
+=====================================================
+  Makale 2 (Q1) — Adim 4: Robustness / Duyarlilik
+  A) Kovaryatsiz  B) Contrast  C) Cinsiyet
+=====================================================
+
+
+============================================
+  A) KOVARYATSIZ MODEL
+============================================
+
+--- TUR ---
++++ Generate BIFIE.data object
+|*|
+|-|
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+  serial1 = -0.00901 [-0.01651, -0.00342] EVET
+  serial2 = -0.00485 [-0.01085, -0.00046] EVET
+
+--- KOR ---
++++ Generate BIFIE.data object
+|*|
+|-|
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+  serial1 = -0.01143 [-0.03211, 0.00172] HAYIR
+  serial2 = -0.00299 [-0.01188, 0.00271] HAYIR
+
+--- FIN ---
++++ Generate BIFIE.data object
+|*|
+|-|
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+  serial1 = -0.02169 [-0.03579, -0.01051] EVET
+  serial2 = -0.00582 [-0.01413, 0.00080] HAYIR
+
+--- MEX ---
++++ Generate BIFIE.data object
+|*|
+|-|
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+  serial1 = -0.00546 [-0.01685, 0.00370] HAYIR
+  serial2 = -0.00595 [-0.01447, -0.00024] EVET
+
+>>> 02_tablo09_robustness_kovaryatsiz.csv
+
+
+============================================
+  B) CONTRAST: serial1 vs serial2
+============================================
+
+--- TUR ---
++++ Generate BIFIE.data object
+|*|
+|-|
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+  serial1 = -0.00645
+  serial2 = -0.00413
+  fark    = -0.00227 [-0.00932, 0.00432] HAYIR
+
+--- KOR ---
++++ Generate BIFIE.data object
+|*|
+|-|
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+  serial1 = -0.00774
+  serial2 = -0.00189
+  fark    = -0.00575 [-0.02055, 0.00397] HAYIR
+
+--- FIN ---
++++ Generate BIFIE.data object
+|*|
+|-|
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+  serial1 = -0.01205
+  serial2 = -0.00231
+  fark    = -0.00968 [-0.02359, 0.00232] HAYIR
+
+--- MEX ---
++++ Generate BIFIE.data object
+|*|
+|-|
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+  serial1 = -0.00266
+  serial2 = -0.00423
+  fark    = 0.00163 [-0.00856, 0.01211] HAYIR
+
+>>> 02_tablo10_contrast.csv
+
+
+============================================
+  C) CINSIYET MODERASYONU
+============================================
+
+--- TUR ---
+  Kiz:
+    N = 3449
++++ Generate BIFIE.data object
+|*|
+|-|
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+    serial1 = -0.00782 [-0.01876, -0.00107] EVET
+    serial2 = -0.00666 [-0.01670, -0.00084] EVET
+  Erkek:
+    N = 3550
++++ Generate BIFIE.data object
+|*|
+|-|
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+    serial1 = -0.00535 [-0.01438, 0.00005] HAYIR
+    serial2 = -0.00192 [-0.00948, 0.00434] HAYIR
+
+--- KOR ---
+  Kiz:
+    N = 3075
++++ Generate BIFIE.data object
+|*|
+|-|
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+    serial1 = -0.00803 [-0.02520, 0.00062] HAYIR
+    serial2 = -0.00315 [-0.01286, 0.00181] HAYIR
+  Erkek:
+    N = 3213
++++ Generate BIFIE.data object
+|*|
+|-|
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+    serial1 = -0.00709 [-0.03105, 0.00749] HAYIR
+    serial2 = -0.00094 [-0.00950, 0.00537] HAYIR
+
+--- FIN ---
+  Kiz:
+    N = 4190
++++ Generate BIFIE.data object
+|*|
+|-|
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+    serial1 = -0.01238 [-0.03046, 0.00228] HAYIR
+    serial2 = -0.00434 [-0.01489, 0.00390] HAYIR
+  Erkek:
+    N = 4082
++++ Generate BIFIE.data object
+|*|
+|-|
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+    serial1 = -0.01178 [-0.03131, 0.00326] HAYIR
+    serial2 = -0.00027 [-0.00949, 0.00900] HAYIR
+
+--- MEX ---
+  Kiz:
+    N = 2858
++++ Generate BIFIE.data object
+|*|
+|-|
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+    serial1 = -0.00483 [-0.02121, 0.00713] HAYIR
+    serial2 = -0.00565 [-0.01670, 0.00031] HAYIR
+  Erkek:
+    N = 2576
++++ Generate BIFIE.data object
+|*|
+|-|
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+    serial1 = -0.00094 [-0.01195, 0.00943] HAYIR
+    serial2 = -0.00299 [-0.01305, 0.00350] HAYIR
+
+>>> 02_tablo11_cinsiyet.csv
+
+
+=====================================================
+     ROBUSTNESS OZET — Makale 2 (Q1)
+=====================================================
+
+  A) Kovaryatsiz model:
+ ulke           yol          est       ci_lo         ci_hi   sig
+  TUR serial1_nokov -0.009007355 -0.01650945 -0.0034228497  EVET
+  TUR serial2_nokov -0.004852850 -0.01085484 -0.0004550603  EVET
+  KOR serial1_nokov -0.011427768 -0.03211345  0.0017161742 HAYIR
+  KOR serial2_nokov -0.002988266 -0.01188135  0.0027107945 HAYIR
+  FIN serial1_nokov -0.021688424 -0.03578958 -0.0105050267  EVET
+  FIN serial2_nokov -0.005817051 -0.01412709  0.0008031420 HAYIR
+  MEX serial1_nokov -0.005458202 -0.01684577  0.0036963450 HAYIR
+  MEX serial2_nokov -0.005954759 -0.01446888 -0.0002392339  EVET
+
+
+  B) Contrast (serial1 - serial2):
+ ulke      serial1      serial2         diff        ci_lo       ci_hi   sig
+  TUR -0.006446721 -0.004130756 -0.002267886 -0.009317244 0.004324125 HAYIR
+  KOR -0.007739073 -0.001893839 -0.005747288 -0.020552185 0.003970643 HAYIR
+  FIN -0.012052345 -0.002313349 -0.009682999 -0.023591456 0.002315893 HAYIR
+  MEX -0.002659317 -0.004233697  0.001634605 -0.008559255 0.012113595 HAYIR
+
+
+  C) Cinsiyet:
+ ulke cinsiyet     yol           est        ci_lo         ci_hi   sig
+  TUR      Kiz serial1 -0.0078183618 -0.018762956 -1.065014e-03  EVET
+  TUR      Kiz serial2 -0.0066622690 -0.016695900 -8.418314e-04  EVET
+  TUR    Erkek serial1 -0.0053484430 -0.014381882  4.781577e-05 HAYIR
+  TUR    Erkek serial2 -0.0019213096 -0.009479034  4.336032e-03 HAYIR
+  KOR      Kiz serial1 -0.0080333328 -0.025197831  6.204517e-04 HAYIR
+  KOR      Kiz serial2 -0.0031537917 -0.012855159  1.806113e-03 HAYIR
+  KOR    Erkek serial1 -0.0070880083 -0.031053954  7.486561e-03 HAYIR
+  KOR    Erkek serial2 -0.0009368603 -0.009495113  5.373965e-03 HAYIR
+  FIN      Kiz serial1 -0.0123770221 -0.030462557  2.279521e-03 HAYIR
+  FIN      Kiz serial2 -0.0043410640 -0.014892069  3.895449e-03 HAYIR
+  FIN    Erkek serial1 -0.0117838343 -0.031307873  3.264048e-03 HAYIR
+  FIN    Erkek serial2 -0.0002723518 -0.009491241  9.000110e-03 HAYIR
+  MEX      Kiz serial1 -0.0048263008 -0.021205664  7.128883e-03 HAYIR
+  MEX      Kiz serial2 -0.0056496603 -0.016700663  3.067648e-04 HAYIR
+  MEX    Erkek serial1 -0.0009384169 -0.011953709  9.429110e-03 HAYIR
+  MEX    Erkek serial2 -0.0029870096 -0.013051047  3.500084e-03 HAYIR
+
+
+=====================================================
+  Ciktilar:
+    02_tablo09_robustness_kovaryatsiz.csv
+    02_tablo10_contrast.csv
+    02_tablo11_cinsiyet.csv
+=====================================================
+
+>>> Log: output/logs/02_04_robustness_log.txt
+
+=== SCRIPT SONU ===
+erial1 (BELONG->CREATSCH)   = -0.00645 [-0.01252, -0.00201] EVET
+    serial2 (FEELSAFE->CREATSCH) = -0.00413 [-0.00949, -0.00032] EVET
+    simple1 (BELONG direct)      = -0.01056 [-0.03014, 0.00745] HAYIR
+    simple2 (FEELSAFE direct)    = -0.00191 [-0.01842, 0.01476] HAYIR
+    simple3 (CREATSCH direct)    = -0.01366 [-0.03837, 0.00927] HAYIR
+
+    Toplam dolayli  = -0.0367
+    c' (dogrudan)   = 0.0375
+    Toplam etki     = 0.0008
+    Mediation %     = NA%
+
+
+========================================
+  KOR — Seri Mediation
+========================================
+  N = 6288 ogrenci, 185 okul
++++ Generate BIFIE.data object
+|*|
+|-|
+
+  --- M1: BELONG ~ BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    a1 = -0.1690 (SE=0.0890, p=0.0574)
+
+  --- M2: FEELSAFE ~ BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    a2 = -0.0873 (SE=0.0734, p=0.2340)
+
+  --- M3: CREATSCH ~ BELONG_CWC + FEELSAFE_CWC + BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    d1 (BELONG)   = 0.1612 (SE=0.0603, p=0.0076)
+    d2 (FEELSAFE) = 0.0763 (SE=0.0427, p=0.0735)
+    a3 (BULLIED)  = -0.0809 (SE=0.0893, p=0.3628)
+
+  --- M4: CREATEFF ~ BELONG_CWC + FEELSAFE_CWC + CREATSCH_CWC + BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    c' (dogrudan)    = 0.1103 (SE=0.0646, p=0.0873)
+    b1 (BELONG)      = 0.1361 (SE=0.0599, p=0.0232)
+    b2 (FEELSAFE)    = -0.0067 (SE=0.0533, p=0.9045)
+    b3 (CREATSCH)    = 0.2840 (SE=0.0902, p=0.0016)
+
+  --- Dolayli Etkiler (Monte Carlo CI, 20K sim) ---
+    serial1 (BELONG->CREATSCH)   = -0.00774 [-0.02226, 0.00042] HAYIR
+    serial2 (FEELSAFE->CREATSCH) = -0.00189 [-0.00752, 0.00134] HAYIR
+    simple1 (BELONG direct)      = -0.02299 [-0.06163, 0.00213] HAYIR
+    simple2 (FEELSAFE direct)    = 0.00058 [-0.01186, 0.01443] HAYIR
+    simple3 (CREATSCH direct)    = -0.02299 [-0.08243, 0.02814] HAYIR
+
+    Toplam dolayli  = -0.0550
+    c' (dogrudan)   = 0.1103
+    Toplam etki     = 0.0552
+    Mediation %     = -99.6%
+
+
+========================================
+  FIN — Seri Mediation
+========================================
+  N = 8272 ogrenci, 240 okul
++++ Generate BIFIE.data object
+|*|
+|-|
+
+  --- M1: BELONG ~ BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    a1 = -0.3086 (SE=0.0407, p=0.0000)
+
+  --- M2: FEELSAFE ~ BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    a2 = -0.1811 (SE=0.0471, p=0.0001)
+
+  --- M3: CREATSCH ~ BELONG_CWC + FEELSAFE_CWC + BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    d1 (BELONG)   = 0.1139 (SE=0.0496, p=0.0220)
+    d2 (FEELSAFE) = 0.0373 (SE=0.0464, p=0.4237)
+    a3 (BULLIED)  = -0.0449 (SE=0.0447, p=0.3125)
+
+  --- M4: CREATEFF ~ BELONG_CWC + FEELSAFE_CWC + CREATSCH_CWC + BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    c' (dogrudan)    = 0.0755 (SE=0.0424, p=0.0751)
+    b1 (BELONG)      = 0.0722 (SE=0.0602, p=0.2301)
+    b2 (FEELSAFE)    = 0.0134 (SE=0.0489, p=0.7872)
+    b3 (CREATSCH)    = 0.3430 (SE=0.0526, p=0.0000)
+
+  --- Dolayli Etkiler (Monte Carlo CI, 20K sim) ---
+    serial1 (BELONG->CREATSCH)   = -0.01205 [-0.02467, -0.00174] EVET
+    serial2 (FEELSAFE->CREATSCH) = -0.00231 [-0.00895, 0.00343] HAYIR
+    simple1 (BELONG direct)      = -0.02228 [-0.05960, 0.01404] HAYIR
+    simple2 (FEELSAFE direct)    = -0.00243 [-0.02091, 0.01605] HAYIR
+    simple3 (CREATSCH direct)    = -0.01541 [-0.04719, 0.01506] HAYIR
+
+    Toplam dolayli  = -0.0545
+    c' (dogrudan)   = 0.0755
+    Toplam etki     = 0.0210
+    Mediation %     = -259.2%
+
+
+========================================
+  MEX — Seri Mediation
+========================================
+  N = 5434 ogrenci, 270 okul
++++ Generate BIFIE.data object
+|*|
+|-|
+
+  --- M1: BELONG ~ BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    a1 = -0.2268 (SE=0.0576, p=0.0001)
+
+  --- M2: FEELSAFE ~ BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    a2 = -0.1386 (SE=0.0469, p=0.0032)
+
+  --- M3: CREATSCH ~ BELONG_CWC + FEELSAFE_CWC + BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    d1 (BELONG)   = 0.0448 (SE=0.0658, p=0.4965)
+    d2 (FEELSAFE) = 0.1167 (SE=0.0679, p=0.0854)
+    a3 (BULLIED)  = -0.0756 (SE=0.0524, p=0.1499)
+
+  --- M4: CREATEFF ~ BELONG_CWC + FEELSAFE_CWC + CREATSCH_CWC + BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    c' (dogrudan)    = 0.0365 (SE=0.0467, p=0.4354)
+    b1 (BELONG)      = 0.0840 (SE=0.0448, p=0.0601)
+    b2 (FEELSAFE)    = 0.0080 (SE=0.0489, p=0.8729)
+    b3 (CREATSCH)    = 0.2619 (SE=0.0505, p=0.0000)
+
+  --- Dolayli Etkiler (Monte Carlo CI, 20K sim) ---
+    serial1 (BELONG->CREATSCH)   = -0.00266 [-0.01163, 0.00519] HAYIR
+    serial2 (FEELSAFE->CREATSCH) = -0.00423 [-0.01148, 0.00053] HAYIR
+    simple1 (BELONG direct)      = -0.01905 [-0.04378, 0.00065] HAYIR
+    simple2 (FEELSAFE direct)    = -0.00111 [-0.01570, 0.01355] HAYIR
+    simple3 (CREATSCH direct)    = -0.01979 [-0.04995, 0.00724] HAYIR
+
+    Toplam dolayli  = -0.0468
+    c' (dogrudan)   = 0.0365
+    Toplam etki     = -0.0103
+    Mediation %     = 453.9%
+
+
+=====================================================
+     SERI MEDIATION OZET — Makale 2 (Q1)
+=====================================================
+
+  Seri dolayli etkiler (a * d * b3):
+ ulke                       yol          est        ci_lo         ci_hi   sig
+  TUR   serial1_BELONG_CREATSCH -0.006446721 -0.012524454 -0.0020117624  EVET
+  TUR serial2_FEELSAFE_CREATSCH -0.004130756 -0.009486165 -0.0003231445  EVET
+  KOR   serial1_BELONG_CREATSCH -0.007739073 -0.022262312  0.0004226056 HAYIR
+  KOR serial2_FEELSAFE_CREATSCH -0.001893839 -0.007519835  0.0013409356 HAYIR
+  FIN   serial1_BELONG_CREATSCH -0.012052345 -0.024669233 -0.0017354541  EVET
+  FIN serial2_FEELSAFE_CREATSCH -0.002313349 -0.008948409  0.0034288165 HAYIR
+  MEX   serial1_BELONG_CREATSCH -0.002659317 -0.011626351  0.0051884621 HAYIR
+  MEX serial2_FEELSAFE_CREATSCH -0.004233697 -0.011483696  0.0005305256 HAYIR
+
+
+  Basit dolayli etkiler (a * b):
+ ulke              yol          est       ci_lo        ci_hi   sig
+  TUR   simple1_BELONG -0.010557019 -0.03013771 0.0074491138 HAYIR
+  TUR simple2_FEELSAFE -0.001911033 -0.01841617 0.0147602038 HAYIR
+  TUR simple3_CREATSCH -0.013659449 -0.03836776 0.0092705977 HAYIR
+  KOR   simple1_BELONG -0.022993217 -0.06163454 0.0021314461 HAYIR
+  KOR simple2_FEELSAFE  0.000581996 -0.01185859 0.0144260420 HAYIR
+  KOR simple3_CREATSCH -0.022987057 -0.08243289 0.0281413568 HAYIR
+  FIN   simple1_BELONG -0.022276212 -0.05960448 0.0140431276 HAYIR
+  FIN simple2_FEELSAFE -0.002425207 -0.02091264 0.0160479931 HAYIR
+  FIN simple3_CREATSCH -0.015412616 -0.04719035 0.0150567994 HAYIR
+  MEX   simple1_BELONG -0.019049417 -0.04377827 0.0006532648 HAYIR
+  MEX simple2_FEELSAFE -0.001107589 -0.01569521 0.0135486557 HAYIR
+  MEX simple3_CREATSCH -0.019791030 -0.04995163 0.0072395888 HAYIR
+
+
+  Toplam etki:
+ ulke            yol           est   sig        pct
+  TUR total_indirect -0.0367049774  <NA>         NA
+  TUR        c_prime  0.0375372581 HAYIR         NA
+  TUR   total_effect  0.0008322807  <NA>         NA
+  KOR total_indirect -0.0550311896  <NA>  -99.62149
+  KOR        c_prime  0.1102714676 HAYIR         NA
+  KOR   total_effect  0.0552402780  <NA>         NA
+  FIN total_indirect -0.0544797288  <NA> -259.15472
+  FIN        c_prime  0.0755018150 HAYIR         NA
+  FIN   total_effect  0.0210220863  <NA>         NA
+  MEX total_indirect -0.0468410486  <NA>  453.90506
+  MEX        c_prime  0.0365214791 HAYIR         NA
+  MEX   total_effect -0.0103195695  <NA>         NA
+
+
+=====================================================
+  Ciktilar:
+    02_tablo07_seri_katsayilar.csv
+    02_tablo08_seri_dolayli.csv
+    02_modeller_seri.rds
+=====================================================
+
+>>> Log: output/logs/02_03_seri_mediation_log.txt
+
+=== SCRIPT SONU ===
+
+=====================================================
+  Makale 2 (Q1) — Adim 4: Robustness / Duyarlilik
+  A) Kovaryatsiz  B) Contrast  C) Cinsiyet
+=====================================================
+
+
+============================================
+  A) KOVARYATSIZ MODEL
+============================================
+
+--- TUR ---
++++ Generate BIFIE.data object
+|*|
+|-|
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+  serial1 = -0.00901 [-0.01651, -0.00342] EVET
+  serial2 = -0.00485 [-0.01085, -0.00046] EVET
+
+--- KOR ---
++++ Generate BIFIE.data object
+|*|
+|-|
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+  serial1 = -0.01143 [-0.03211, 0.00172] HAYIR
+  serial2 = -0.00299 [-0.01188, 0.00271] HAYIR
+
+--- FIN ---
++++ Generate BIFIE.data object
+|*|
+|-|
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+  serial1 = -0.02169 [-0.03579, -0.01051] EVET
+  serial2 = -0.00582 [-0.01413, 0.00080] HAYIR
+
+--- MEX ---
++++ Generate BIFIE.data object
+|*|
+|-|
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+  serial1 = -0.00546 [-0.01685, 0.00370] HAYIR
+  serial2 = -0.00595 [-0.01447, -0.00024] EVET
+
+>>> 02_tablo09_robustness_kovaryatsiz.csv
+
+
+============================================
+  B) CONTRAST: serial1 vs serial2
+============================================
+
+--- TUR ---
++++ Generate BIFIE.data object
+|*|
+|-|
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+  serial1 = -0.00645
+  serial2 = -0.00413
+  fark    = -0.00227 [-0.00932, 0.00432] HAYIR
+
+--- KOR ---
++++ Generate BIFIE.data object
+|*|
+|-|
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+  serial1 = -0.00774
+  serial2 = -0.00189
+  fark    = -0.00575 [-0.02055, 0.00397] HAYIR
+
+--- FIN ---
++++ Generate BIFIE.data object
+|*|
+|-|
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+  serial1 = -0.01205
+  serial2 = -0.00231
+  fark    = -0.00968 [-0.02359, 0.00232] HAYIR
+
+--- MEX ---
++++ Generate BIFIE.data object
+|*|
+|-|
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+  serial1 = -0.00266
+  serial2 = -0.00423
+  fark    = 0.00163 [-0.00856, 0.01211] HAYIR
+
+>>> 02_tablo10_contrast.csv
+
+
+============================================
+  C) CINSIYET MODERASYONU
+============================================
+
+--- TUR ---
+  Kiz:
+    N = 3449
++++ Generate BIFIE.data object
+|*|
+|-|
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+    serial1 = -0.00782 [-0.01876, -0.00107] EVET
+    serial2 = -0.00666 [-0.01670, -0.00084] EVET
+  Erkek:
+    N = 3550
++++ Generate BIFIE.data object
+|*|
+|-|
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+    serial1 = -0.00535 [-0.01438, 0.00005] HAYIR
+    serial2 = -0.00192 [-0.00948, 0.00434] HAYIR
+
+--- KOR ---
+  Kiz:
+    N = 3075
++++ Generate BIFIE.data object
+|*|
+|-|
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+    serial1 = -0.00803 [-0.02520, 0.00062] HAYIR
+    serial2 = -0.00315 [-0.01286, 0.00181] HAYIR
+  Erkek:
+    N = 3213
++++ Generate BIFIE.data object
+|*|
+|-|
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+    serial1 = -0.00709 [-0.03105, 0.00749] HAYIR
+    serial2 = -0.00094 [-0.00950, 0.00537] HAYIR
+
+--- FIN ---
+  Kiz:
+    N = 4190
++++ Generate BIFIE.data object
+|*|
+|-|
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+    serial1 = -0.01238 [-0.03046, 0.00228] HAYIR
+    serial2 = -0.00434 [-0.01489, 0.00390] HAYIR
+  Erkek:
+    N = 4082
++++ Generate BIFIE.data object
+|*|
+|-|
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+    serial1 = -0.01178 [-0.03131, 0.00326] HAYIR
+    serial2 = -0.00027 [-0.00949, 0.00900] HAYIR
+
+--- MEX ---
+  Kiz:
+    N = 2858
++++ Generate BIFIE.data object
+|*|
+|-|
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+    serial1 = -0.00483 [-0.02121, 0.00713] HAYIR
+    serial2 = -0.00565 [-0.01670, 0.00031] HAYIR
+  Erkek:
+    N = 2576
++++ Generate BIFIE.data object
+|*|
+|-|
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+    serial1 = -0.00094 [-0.01195, 0.00943] HAYIR
+    serial2 = -0.00299 [-0.01305, 0.00350] HAYIR
+
+>>> 02_tablo11_cinsiyet.csv
+
+
+=====================================================
+     ROBUSTNESS OZET — Makale 2 (Q1)
+=====================================================
+
+  A) Kovaryatsiz model:
+ ulke           yol          est       ci_lo         ci_hi   sig
+  TUR serial1_nokov -0.009007355 -0.01650945 -0.0034228497  EVET
+  TUR serial2_nokov -0.004852850 -0.01085484 -0.0004550603  EVET
+  KOR serial1_nokov -0.011427768 -0.03211345  0.0017161742 HAYIR
+  KOR serial2_nokov -0.002988266 -0.01188135  0.0027107945 HAYIR
+  FIN serial1_nokov -0.021688424 -0.03578958 -0.0105050267  EVET
+  FIN serial2_nokov -0.005817051 -0.01412709  0.0008031420 HAYIR
+  MEX serial1_nokov -0.005458202 -0.01684577  0.0036963450 HAYIR
+  MEX serial2_nokov -0.005954759 -0.01446888 -0.0002392339  EVET
+
+
+  B) Contrast (serial1 - serial2):
+ ulke      serial1      serial2         diff        ci_lo       ci_hi   sig
+  TUR -0.006446721 -0.004130756 -0.002267886 -0.009317244 0.004324125 HAYIR
+  KOR -0.007739073 -0.001893839 -0.005747288 -0.020552185 0.003970643 HAYIR
+  FIN -0.012052345 -0.002313349 -0.009682999 -0.023591456 0.002315893 HAYIR
+  MEX -0.002659317 -0.004233697  0.001634605 -0.008559255 0.012113595 HAYIR
+
+
+  C) Cinsiyet:
+ ulke cinsiyet     yol           est        ci_lo         ci_hi   sig
+  TUR      Kiz serial1 -0.0078183618 -0.018762956 -1.065014e-03  EVET
+  TUR      Kiz serial2 -0.0066622690 -0.016695900 -8.418314e-04  EVET
+  TUR    Erkek serial1 -0.0053484430 -0.014381882  4.781577e-05 HAYIR
+  TUR    Erkek serial2 -0.0019213096 -0.009479034  4.336032e-03 HAYIR
+  KOR      Kiz serial1 -0.0080333328 -0.025197831  6.204517e-04 HAYIR
+  KOR      Kiz serial2 -0.0031537917 -0.012855159  1.806113e-03 HAYIR
+  KOR    Erkek serial1 -0.0070880083 -0.031053954  7.486561e-03 HAYIR
+  KOR    Erkek serial2 -0.0009368603 -0.009495113  5.373965e-03 HAYIR
+  FIN      Kiz serial1 -0.0123770221 -0.030462557  2.279521e-03 HAYIR
+  FIN      Kiz serial2 -0.0043410640 -0.014892069  3.895449e-03 HAYIR
+  FIN    Erkek serial1 -0.0117838343 -0.031307873  3.264048e-03 HAYIR
+  FIN    Erkek serial2 -0.0002723518 -0.009491241  9.000110e-03 HAYIR
+  MEX      Kiz serial1 -0.0048263008 -0.021205664  7.128883e-03 HAYIR
+  MEX      Kiz serial2 -0.0056496603 -0.016700663  3.067648e-04 HAYIR
+  MEX    Erkek serial1 -0.0009384169 -0.011953709  9.429110e-03 HAYIR
+  MEX    Erkek serial2 -0.0029870096 -0.013051047  3.500084e-03 HAYIR
+
+
+=====================================================
+  Ciktilar:
+    02_tablo09_robustness_kovaryatsiz.csv
+    02_tablo10_contrast.csv
+    02_tablo11_cinsiyet.csv
+=====================================================
+
+>>> Log: output/logs/02_04_robustness_log.txt
+
+=== SCRIPT SONU ===

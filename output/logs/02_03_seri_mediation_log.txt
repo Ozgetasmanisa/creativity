@@ -1,0 +1,256 @@
+
+=== CWC/SCH KONTROL ===
+  BULLIED_CWC zaten mevcut.
+  BELONG_CWC zaten mevcut.
+  FEELSAFE_CWC zaten mevcut.
+  CREATEFF_CWC zaten mevcut.
+  CREATSCH_CWC zaten mevcut.
+  ESCS_CWC zaten mevcut.
+  ANXMAT_CWC zaten mevcut.
+  FAMSUP_CWC zaten mevcut.
+
+Kovaryatlar: ESCS_CWC, ANXMAT_CWC, FAMSUP_CWC, ST004D01T
+BIFIE sutun sayisi: 114
+
+
+=== SERI MEDIATION ANALIZI ===
+
+
+========================================
+  TUR — Seri Mediation
+========================================
+  N = 6999 ogrenci, 196 okul
++++ Generate BIFIE.data object
+|*|
+|-|
+
+  --- M1: BELONG ~ BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    a1 = -0.1835 (SE=0.0355, p=0.0000)
+
+  --- M2: FEELSAFE ~ BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    a2 = -0.1782 (SE=0.0439, p=0.0000)
+
+  --- M3: CREATSCH ~ BELONG_CWC + FEELSAFE_CWC + BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    d1 (BELONG)   = 0.1501 (SE=0.0487, p=0.0021)
+    d2 (FEELSAFE) = 0.0991 (SE=0.0465, p=0.0332)
+    a3 (BULLIED)  = -0.0584 (SE=0.0494, p=0.2380)
+
+  --- M4: CREATEFF ~ BELONG_CWC + FEELSAFE_CWC + CREATSCH_CWC + BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    c' (dogrudan)    = 0.0375 (SE=0.0391, p=0.3371)
+    b1 (BELONG)      = 0.0575 (SE=0.0502, p=0.2501)
+    b2 (FEELSAFE)    = 0.0107 (SE=0.0451, p=0.8103)
+    b3 (CREATSCH)    = 0.2341 (SE=0.0411, p=0.0000)
+
+  --- Dolayli Etkiler (Monte Carlo CI, 20K sim) ---
+    serial1 (BELONG->CREATSCH)   = -0.00645 [-0.01252, -0.00201] EVET
+    serial2 (FEELSAFE->CREATSCH) = -0.00413 [-0.00949, -0.00032] EVET
+    simple1 (BELONG direct)      = -0.01056 [-0.03014, 0.00745] HAYIR
+    simple2 (FEELSAFE direct)    = -0.00191 [-0.01842, 0.01476] HAYIR
+    simple3 (CREATSCH direct)    = -0.01366 [-0.03837, 0.00927] HAYIR
+
+    Toplam dolayli  = -0.0367
+    c' (dogrudan)   = 0.0375
+    Toplam etki     = 0.0008
+    Mediation %     = NA%
+
+
+========================================
+  KOR — Seri Mediation
+========================================
+  N = 6288 ogrenci, 185 okul
++++ Generate BIFIE.data object
+|*|
+|-|
+
+  --- M1: BELONG ~ BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    a1 = -0.1690 (SE=0.0890, p=0.0574)
+
+  --- M2: FEELSAFE ~ BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    a2 = -0.0873 (SE=0.0734, p=0.2340)
+
+  --- M3: CREATSCH ~ BELONG_CWC + FEELSAFE_CWC + BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    d1 (BELONG)   = 0.1612 (SE=0.0603, p=0.0076)
+    d2 (FEELSAFE) = 0.0763 (SE=0.0427, p=0.0735)
+    a3 (BULLIED)  = -0.0809 (SE=0.0893, p=0.3628)
+
+  --- M4: CREATEFF ~ BELONG_CWC + FEELSAFE_CWC + CREATSCH_CWC + BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    c' (dogrudan)    = 0.1103 (SE=0.0646, p=0.0873)
+    b1 (BELONG)      = 0.1361 (SE=0.0599, p=0.0232)
+    b2 (FEELSAFE)    = -0.0067 (SE=0.0533, p=0.9045)
+    b3 (CREATSCH)    = 0.2840 (SE=0.0902, p=0.0016)
+
+  --- Dolayli Etkiler (Monte Carlo CI, 20K sim) ---
+    serial1 (BELONG->CREATSCH)   = -0.00774 [-0.02226, 0.00042] HAYIR
+    serial2 (FEELSAFE->CREATSCH) = -0.00189 [-0.00752, 0.00134] HAYIR
+    simple1 (BELONG direct)      = -0.02299 [-0.06163, 0.00213] HAYIR
+    simple2 (FEELSAFE direct)    = 0.00058 [-0.01186, 0.01443] HAYIR
+    simple3 (CREATSCH direct)    = -0.02299 [-0.08243, 0.02814] HAYIR
+
+    Toplam dolayli  = -0.0550
+    c' (dogrudan)   = 0.1103
+    Toplam etki     = 0.0552
+    Mediation %     = -99.6%
+
+
+========================================
+  FIN — Seri Mediation
+========================================
+  N = 8272 ogrenci, 240 okul
++++ Generate BIFIE.data object
+|*|
+|-|
+
+  --- M1: BELONG ~ BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    a1 = -0.3086 (SE=0.0407, p=0.0000)
+
+  --- M2: FEELSAFE ~ BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    a2 = -0.1811 (SE=0.0471, p=0.0001)
+
+  --- M3: CREATSCH ~ BELONG_CWC + FEELSAFE_CWC + BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    d1 (BELONG)   = 0.1139 (SE=0.0496, p=0.0220)
+    d2 (FEELSAFE) = 0.0373 (SE=0.0464, p=0.4237)
+    a3 (BULLIED)  = -0.0449 (SE=0.0447, p=0.3125)
+
+  --- M4: CREATEFF ~ BELONG_CWC + FEELSAFE_CWC + CREATSCH_CWC + BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    c' (dogrudan)    = 0.0755 (SE=0.0424, p=0.0751)
+    b1 (BELONG)      = 0.0722 (SE=0.0602, p=0.2301)
+    b2 (FEELSAFE)    = 0.0134 (SE=0.0489, p=0.7872)
+    b3 (CREATSCH)    = 0.3430 (SE=0.0526, p=0.0000)
+
+  --- Dolayli Etkiler (Monte Carlo CI, 20K sim) ---
+    serial1 (BELONG->CREATSCH)   = -0.01205 [-0.02467, -0.00174] EVET
+    serial2 (FEELSAFE->CREATSCH) = -0.00231 [-0.00895, 0.00343] HAYIR
+    simple1 (BELONG direct)      = -0.02228 [-0.05960, 0.01404] HAYIR
+    simple2 (FEELSAFE direct)    = -0.00243 [-0.02091, 0.01605] HAYIR
+    simple3 (CREATSCH direct)    = -0.01541 [-0.04719, 0.01506] HAYIR
+
+    Toplam dolayli  = -0.0545
+    c' (dogrudan)   = 0.0755
+    Toplam etki     = 0.0210
+    Mediation %     = -259.2%
+
+
+========================================
+  MEX — Seri Mediation
+========================================
+  N = 5434 ogrenci, 270 okul
++++ Generate BIFIE.data object
+|*|
+|-|
+
+  --- M1: BELONG ~ BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    a1 = -0.2268 (SE=0.0576, p=0.0001)
+
+  --- M2: FEELSAFE ~ BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    a2 = -0.1386 (SE=0.0469, p=0.0032)
+
+  --- M3: CREATSCH ~ BELONG_CWC + FEELSAFE_CWC + BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    d1 (BELONG)   = 0.0448 (SE=0.0658, p=0.4965)
+    d2 (FEELSAFE) = 0.1167 (SE=0.0679, p=0.0854)
+    a3 (BULLIED)  = -0.0756 (SE=0.0524, p=0.1499)
+
+  --- M4: CREATEFF ~ BELONG_CWC + FEELSAFE_CWC + CREATSCH_CWC + BULLIED_CWC ---
+ 
+Imputation 1 | Group 1 |-------- 
+    c' (dogrudan)    = 0.0365 (SE=0.0467, p=0.4354)
+    b1 (BELONG)      = 0.0840 (SE=0.0448, p=0.0601)
+    b2 (FEELSAFE)    = 0.0080 (SE=0.0489, p=0.8729)
+    b3 (CREATSCH)    = 0.2619 (SE=0.0505, p=0.0000)
+
+  --- Dolayli Etkiler (Monte Carlo CI, 20K sim) ---
+    serial1 (BELONG->CREATSCH)   = -0.00266 [-0.01163, 0.00519] HAYIR
+    serial2 (FEELSAFE->CREATSCH) = -0.00423 [-0.01148, 0.00053] HAYIR
+    simple1 (BELONG direct)      = -0.01905 [-0.04378, 0.00065] HAYIR
+    simple2 (FEELSAFE direct)    = -0.00111 [-0.01570, 0.01355] HAYIR
+    simple3 (CREATSCH direct)    = -0.01979 [-0.04995, 0.00724] HAYIR
+
+    Toplam dolayli  = -0.0468
+    c' (dogrudan)   = 0.0365
+    Toplam etki     = -0.0103
+    Mediation %     = 453.9%
+
+
+=====================================================
+     SERI MEDIATION OZET — Makale 2 (Q1)
+=====================================================
+
+  Seri dolayli etkiler (a * d * b3):
+ ulke                       yol          est        ci_lo         ci_hi   sig
+  TUR   serial1_BELONG_CREATSCH -0.006446721 -0.012524454 -0.0020117624  EVET
+  TUR serial2_FEELSAFE_CREATSCH -0.004130756 -0.009486165 -0.0003231445  EVET
+  KOR   serial1_BELONG_CREATSCH -0.007739073 -0.022262312  0.0004226056 HAYIR
+  KOR serial2_FEELSAFE_CREATSCH -0.001893839 -0.007519835  0.0013409356 HAYIR
+  FIN   serial1_BELONG_CREATSCH -0.012052345 -0.024669233 -0.0017354541  EVET
+  FIN serial2_FEELSAFE_CREATSCH -0.002313349 -0.008948409  0.0034288165 HAYIR
+  MEX   serial1_BELONG_CREATSCH -0.002659317 -0.011626351  0.0051884621 HAYIR
+  MEX serial2_FEELSAFE_CREATSCH -0.004233697 -0.011483696  0.0005305256 HAYIR
+
+
+  Basit dolayli etkiler (a * b):
+ ulke              yol          est       ci_lo        ci_hi   sig
+  TUR   simple1_BELONG -0.010557019 -0.03013771 0.0074491138 HAYIR
+  TUR simple2_FEELSAFE -0.001911033 -0.01841617 0.0147602038 HAYIR
+  TUR simple3_CREATSCH -0.013659449 -0.03836776 0.0092705977 HAYIR
+  KOR   simple1_BELONG -0.022993217 -0.06163454 0.0021314461 HAYIR
+  KOR simple2_FEELSAFE  0.000581996 -0.01185859 0.0144260420 HAYIR
+  KOR simple3_CREATSCH -0.022987057 -0.08243289 0.0281413568 HAYIR
+  FIN   simple1_BELONG -0.022276212 -0.05960448 0.0140431276 HAYIR
+  FIN simple2_FEELSAFE -0.002425207 -0.02091264 0.0160479931 HAYIR
+  FIN simple3_CREATSCH -0.015412616 -0.04719035 0.0150567994 HAYIR
+  MEX   simple1_BELONG -0.019049417 -0.04377827 0.0006532648 HAYIR
+  MEX simple2_FEELSAFE -0.001107589 -0.01569521 0.0135486557 HAYIR
+  MEX simple3_CREATSCH -0.019791030 -0.04995163 0.0072395888 HAYIR
+
+
+  Toplam etki:
+ ulke            yol           est   sig        pct
+  TUR total_indirect -0.0367049774  <NA>         NA
+  TUR        c_prime  0.0375372581 HAYIR         NA
+  TUR   total_effect  0.0008322807  <NA>         NA
+  KOR total_indirect -0.0550311896  <NA>  -99.62149
+  KOR        c_prime  0.1102714676 HAYIR         NA
+  KOR   total_effect  0.0552402780  <NA>         NA
+  FIN total_indirect -0.0544797288  <NA> -259.15472
+  FIN        c_prime  0.0755018150 HAYIR         NA
+  FIN   total_effect  0.0210220863  <NA>         NA
+  MEX total_indirect -0.0468410486  <NA>  453.90506
+  MEX        c_prime  0.0365214791 HAYIR         NA
+  MEX   total_effect -0.0103195695  <NA>         NA
+
+
+=====================================================
+  Ciktilar:
+    02_tablo07_seri_katsayilar.csv
+    02_tablo08_seri_dolayli.csv
+    02_modeller_seri.rds
+=====================================================

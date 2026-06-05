@@ -1,0 +1,19 @@
+# Ham PISA verisi - OECD telifi, ASLA yuklenmez
+data/raw/
+data/derived/
+*.rds
+*.sav
+*.sas7bdat
+
+# R gecici dosyalari
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Windows
+desktop.ini
+Thumbs.db
+
+# Cikti gorselleri buyukse (istege bagli - simdilik dahil)
+# output/figures/*.tiff

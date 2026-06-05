@@ -1,0 +1,325 @@
+
+
+============================================
+  A) KOVARYATSIZ MODEL
+============================================
+
+--- TUR ---
++++ Generate BIFIE.data object
+|*|
+|-|
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+  serial1 = -0.00901 [-0.01651, -0.00342] EVET
+  serial2 = -0.00485 [-0.01085, -0.00046] EVET
+
+--- KOR ---
++++ Generate BIFIE.data object
+|*|
+|-|
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+  serial1 = -0.01143 [-0.03211, 0.00172] HAYIR
+  serial2 = -0.00299 [-0.01188, 0.00271] HAYIR
+
+--- FIN ---
++++ Generate BIFIE.data object
+|*|
+|-|
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+  serial1 = -0.02169 [-0.03579, -0.01051] EVET
+  serial2 = -0.00582 [-0.01413, 0.00080] HAYIR
+
+--- MEX ---
++++ Generate BIFIE.data object
+|*|
+|-|
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+  serial1 = -0.00546 [-0.01685, 0.00370] HAYIR
+  serial2 = -0.00595 [-0.01447, -0.00024] EVET
+
+>>> 02_tablo09_robustness_kovaryatsiz.csv
+
+
+============================================
+  B) CONTRAST: serial1 vs serial2
+============================================
+
+--- TUR ---
++++ Generate BIFIE.data object
+|*|
+|-|
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+  serial1 = -0.00645
+  serial2 = -0.00413
+  fark    = -0.00227 [-0.00932, 0.00432] HAYIR
+
+--- KOR ---
++++ Generate BIFIE.data object
+|*|
+|-|
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+  serial1 = -0.00774
+  serial2 = -0.00189
+  fark    = -0.00575 [-0.02055, 0.00397] HAYIR
+
+--- FIN ---
++++ Generate BIFIE.data object
+|*|
+|-|
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+  serial1 = -0.01205
+  serial2 = -0.00231
+  fark    = -0.00968 [-0.02359, 0.00232] HAYIR
+
+--- MEX ---
++++ Generate BIFIE.data object
+|*|
+|-|
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+  serial1 = -0.00266
+  serial2 = -0.00423
+  fark    = 0.00163 [-0.00856, 0.01211] HAYIR
+
+>>> 02_tablo10_contrast.csv
+
+
+============================================
+  C) CINSIYET MODERASYONU
+============================================
+
+--- TUR ---
+  Kiz:
+    N = 3449
++++ Generate BIFIE.data object
+|*|
+|-|
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+    serial1 = -0.00782 [-0.01876, -0.00107] EVET
+    serial2 = -0.00666 [-0.01670, -0.00084] EVET
+  Erkek:
+    N = 3550
++++ Generate BIFIE.data object
+|*|
+|-|
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+    serial1 = -0.00535 [-0.01438, 0.00005] HAYIR
+    serial2 = -0.00192 [-0.00948, 0.00434] HAYIR
+
+--- KOR ---
+  Kiz:
+    N = 3075
++++ Generate BIFIE.data object
+|*|
+|-|
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+    serial1 = -0.00803 [-0.02520, 0.00062] HAYIR
+    serial2 = -0.00315 [-0.01286, 0.00181] HAYIR
+  Erkek:
+    N = 3213
++++ Generate BIFIE.data object
+|*|
+|-|
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+    serial1 = -0.00709 [-0.03105, 0.00749] HAYIR
+    serial2 = -0.00094 [-0.00950, 0.00537] HAYIR
+
+--- FIN ---
+  Kiz:
+    N = 4190
++++ Generate BIFIE.data object
+|*|
+|-|
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+    serial1 = -0.01238 [-0.03046, 0.00228] HAYIR
+    serial2 = -0.00434 [-0.01489, 0.00390] HAYIR
+  Erkek:
+    N = 4082
++++ Generate BIFIE.data object
+|*|
+|-|
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+    serial1 = -0.01178 [-0.03131, 0.00326] HAYIR
+    serial2 = -0.00027 [-0.00949, 0.00900] HAYIR
+
+--- MEX ---
+  Kiz:
+    N = 2858
++++ Generate BIFIE.data object
+|*|
+|-|
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+    serial1 = -0.00483 [-0.02121, 0.00713] HAYIR
+    serial2 = -0.00565 [-0.01670, 0.00031] HAYIR
+  Erkek:
+    N = 2576
++++ Generate BIFIE.data object
+|*|
+|-|
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+ 
+Imputation 1 | Group 1 |-------- 
+    serial1 = -0.00094 [-0.01195, 0.00943] HAYIR
+    serial2 = -0.00299 [-0.01305, 0.00350] HAYIR
+
+>>> 02_tablo11_cinsiyet.csv
+
+
+=====================================================
+     ROBUSTNESS OZET — Makale 2 (Q1)
+=====================================================
+
+  A) Kovaryatsiz model:
+ ulke           yol          est       ci_lo         ci_hi   sig
+  TUR serial1_nokov -0.009007355 -0.01650945 -0.0034228497  EVET
+  TUR serial2_nokov -0.004852850 -0.01085484 -0.0004550603  EVET
+  KOR serial1_nokov -0.011427768 -0.03211345  0.0017161742 HAYIR
+  KOR serial2_nokov -0.002988266 -0.01188135  0.0027107945 HAYIR
+  FIN serial1_nokov -0.021688424 -0.03578958 -0.0105050267  EVET
+  FIN serial2_nokov -0.005817051 -0.01412709  0.0008031420 HAYIR
+  MEX serial1_nokov -0.005458202 -0.01684577  0.0036963450 HAYIR
+  MEX serial2_nokov -0.005954759 -0.01446888 -0.0002392339  EVET
+
+
+  B) Contrast (serial1 - serial2):
+ ulke      serial1      serial2         diff        ci_lo       ci_hi   sig
+  TUR -0.006446721 -0.004130756 -0.002267886 -0.009317244 0.004324125 HAYIR
+  KOR -0.007739073 -0.001893839 -0.005747288 -0.020552185 0.003970643 HAYIR
+  FIN -0.012052345 -0.002313349 -0.009682999 -0.023591456 0.002315893 HAYIR
+  MEX -0.002659317 -0.004233697  0.001634605 -0.008559255 0.012113595 HAYIR
+
+
+  C) Cinsiyet:
+ ulke cinsiyet     yol           est        ci_lo         ci_hi   sig
+  TUR      Kiz serial1 -0.0078183618 -0.018762956 -1.065014e-03  EVET
+  TUR      Kiz serial2 -0.0066622690 -0.016695900 -8.418314e-04  EVET
+  TUR    Erkek serial1 -0.0053484430 -0.014381882  4.781577e-05 HAYIR
+  TUR    Erkek serial2 -0.0019213096 -0.009479034  4.336032e-03 HAYIR
+  KOR      Kiz serial1 -0.0080333328 -0.025197831  6.204517e-04 HAYIR
+  KOR      Kiz serial2 -0.0031537917 -0.012855159  1.806113e-03 HAYIR
+  KOR    Erkek serial1 -0.0070880083 -0.031053954  7.486561e-03 HAYIR
+  KOR    Erkek serial2 -0.0009368603 -0.009495113  5.373965e-03 HAYIR
+  FIN      Kiz serial1 -0.0123770221 -0.030462557  2.279521e-03 HAYIR
+  FIN      Kiz serial2 -0.0043410640 -0.014892069  3.895449e-03 HAYIR
+  FIN    Erkek serial1 -0.0117838343 -0.031307873  3.264048e-03 HAYIR
+  FIN    Erkek serial2 -0.0002723518 -0.009491241  9.000110e-03 HAYIR
+  MEX      Kiz serial1 -0.0048263008 -0.021205664  7.128883e-03 HAYIR
+  MEX      Kiz serial2 -0.0056496603 -0.016700663  3.067648e-04 HAYIR
+  MEX    Erkek serial1 -0.0009384169 -0.011953709  9.429110e-03 HAYIR
+  MEX    Erkek serial2 -0.0029870096 -0.013051047  3.500084e-03 HAYIR
+
+
+=====================================================
+  Ciktilar:
+    02_tablo09_robustness_kovaryatsiz.csv
+    02_tablo10_contrast.csv
+    02_tablo11_cinsiyet.csv
+=====================================================
