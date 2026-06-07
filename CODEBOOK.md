@@ -1,4 +1,4 @@
-# CODEBOOK — The Missing Link (PISA 2022, Four Countries, Serial Mediation)
+# CODEBOOK — Creative School Climate, Bullying Victimization, and Creative Self-Efficacy (PISA 2022, Four Countries)
 
 Documentation of all variables, codings, and analytic decisions so that the
 shared scripts can be reproduced by an independent researcher.
@@ -9,16 +9,16 @@ shared scripts can be reproduced by an independent researcher.
 
 | Field | Value |
 |-------|-------|
-| Study title | The Missing Link: Creative School Climate and the Serial Pathway From Bullying Victimization to Creative Self-Efficacy |
-| Authors / ORCID | Kazım Çelik (first author); Özge Yiğit (second author), ORCID 0009-0000-3534-3474 |
-| Related publication (DOI) | [to be added after acceptance] |
-| Repository platform | GitHub (archived to Zenodo for DOI) |
+| Study title | Creative School Climate as a Link Between Bullying Victimization, School Belonging, and Creative Self-Efficacy: Evidence From PISA 2022 Across Four Countries |
+| Authors / ORCID | Kazım Çelik (first author), Pamukkale University, ORCID 0000-0001-7319-6567; Özge Yiğit (second author), Pamukkale University, ORCID 0009-0000-3534-3474 |
+| Related publication (DOI) | To be assigned upon journal acceptance |
+| Repository platform | GitHub (archived to Zenodo for permanent DOI) |
 | Repository URL | https://github.com/Ozgetasmanisa/creativity |
-| Zenodo DOI | [to be added after GitHub–Zenodo archive] |
+| Zenodo DOI | 10.5281/zenodo.20562727 (https://doi.org/10.5281/zenodo.20562727) |
 | Anonymous review link | [view-only/anonymized link if required] |
 | License | Code & derived materials: CC BY 4.0 |
 | Version / date | v1.0 / 2026 |
-| Contact | [corresponding author email] |
+| Contact | Kazım Çelik, kcelik@pau.edu.tr |
 
 ## 2. License and Citation
 
@@ -27,9 +27,8 @@ data are subject to OECD terms and are **not** redistributed here; only the
 access path and derivation scripts are shared.
 
 Suggested citation:
-> Çelik, K., & Yiğit, Ö. (2026). *The missing link: Creative school climate and
-> the serial pathway from bullying victimization to creative self-efficacy*
-> [Analysis code and codebook]. GitHub. https://github.com/Ozgetasmanisa/creativity
+> Çelik, K., & Yiğit, Ö. (2026). *Creative school climate as a link between bullying victimization, school belonging, and creative self-efficacy: Evidence from PISA 2022 across four countries*
+> [Analysis code and codebook]. Zenodo. https://doi.org/10.5281/zenodo.20562727
 
 ## 3. Data Source and Access
 
