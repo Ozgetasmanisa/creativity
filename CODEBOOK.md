@@ -140,7 +140,7 @@ ANXMAT_CWC, FAMSUP_CWC (and corresponding _SCH school-mean variables).
 
 ## 10. Software and Package Versions
 
-- R version: [R 4.x — fill exact version from sessionInfo()]
+- R version: [R version 4.5.3 (2026-03-11 ucrt)]
 - BIFIEsurvey: 3.8 (Robitzsch & Oberwimmer, 2022)
 - lavaan: [version from sessionInfo()] — used for MGCFA invariance
 - Other: dplyr, haven, here
