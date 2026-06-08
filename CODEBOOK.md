@@ -10,7 +10,7 @@ shared scripts can be reproduced by an independent researcher.
 | Field | Value |
 |-------|-------|
 | Study title | Creative School Climate as a Link Between Bullying Victimization, School Belonging, and Creative Self-Efficacy: Evidence From PISA 2022 Across Four Countries |
-| Authors / ORCID | Kazım Çelik (first author), Pamukkale University, ORCID 0000-0001-7319-6567; Özge Yiğit (second author), Pamukkale University, ORCID 0009-0000-3534-3474 |
+| Authors / ORCID | Özge Yiğit (first author), Pamukkale University, ORCID 0009-0000-3534-3474; Kazım Çelik (second author, corresponding), Pamukkale University, ORCID 0000-0001-7319-6567 |
 | Related publication (DOI) | To be assigned upon journal acceptance |
 | Repository platform | GitHub (archived to Zenodo for permanent DOI) |
 | Repository URL | https://github.com/Ozgetasmanisa/creativity |
@@ -27,7 +27,7 @@ data are subject to OECD terms and are **not** redistributed here; only the
 access path and derivation scripts are shared.
 
 Suggested citation:
-> Çelik, K., & Yiğit, Ö. (2026). *Creative school climate as a link between bullying victimization, school belonging, and creative self-efficacy: Evidence from PISA 2022 across four countries*
+> Yiğit, Ö., & Çelik, K. (2026). *Creative school climate as a link between bullying victimization, school belonging, and creative self-efficacy: Evidence from PISA 2022 across four countries*
 > [Analysis code and codebook]. Zenodo. https://doi.org/10.5281/zenodo.20562727
 
 ## 3. Data Source and Access
@@ -140,9 +140,9 @@ ANXMAT_CWC, FAMSUP_CWC (and corresponding _SCH school-mean variables).
 
 ## 10. Software and Package Versions
 
-- R version: [R version 4.5.3 (2026-03-11 ucrt)]
+- R version: 4.5.3 (2026-03-11 ucrt), platform x86_64-w64-mingw32/x64, Windows 10 x64
 - BIFIEsurvey: 3.8 (Robitzsch & Oberwimmer, 2022)
-- lavaan: [version from sessionInfo()] — used for MGCFA invariance
+- lavaan: used for MGCFA measurement invariance (record exact version from sessionInfo() after running scripts)
 - Other: dplyr, haven, here
 - Full session details should be saved to `sessionInfo.txt`.
 

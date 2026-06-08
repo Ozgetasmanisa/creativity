@@ -7,12 +7,12 @@ belonging to creative self-efficacy, using PISA 2022 data from four countries
 
 ## Authors
 
-- **Kazım Çelik** (First author) — Prof. Dr., Department of Educational Administration, Faculty of Education, Pamukkale University, Denizli, Türkiye. ORCID: [0000-0001-7319-6567](https://orcid.org/0000-0001-7319-6567)
-- **Özge Yiğit** (Second author) — Doctoral Candidate, Department of Educational Administration, Faculty of Education, Pamukkale University, Denizli, Türkiye. ORCID: [0009-0000-3534-3474](https://orcid.org/0009-0000-3534-3474)
+- **Özge Yiğit** (First author) — Doctoral Candidate, Department of Educational Administration, Faculty of Education, Pamukkale University, Denizli, Türkiye. ORCID: [0009-0000-3534-3474](https://orcid.org/0009-0000-3534-3474)
+- **Kazım Çelik** (Second author, corresponding author) — Prof. Dr., Department of Educational Administration, Faculty of Education, Pamukkale University, Denizli, Türkiye. ORCID: [0000-0001-7319-6567](https://orcid.org/0000-0001-7319-6567)
 
 ## Citation
 
-> Çelik, K., & Yiğit, Ö. (2026). *Creative school climate as a link between bullying victimization, school belonging, and creative self-efficacy: Evidence from PISA 2022 across four countries*
+> Yiğit, Ö., & Çelik, K. (2026). *Creative school climate as a link between bullying victimization, school belonging, and creative self-efficacy: Evidence from PISA 2022 across four countries*
 > [Analysis code and codebook]. GitHub. https://github.com/Ozgetasmanisa/creativity
 
 ## License
