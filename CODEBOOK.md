@@ -17,7 +17,7 @@ shared scripts can be reproduced by an independent researcher.
 | Zenodo DOI | 10.5281/zenodo.20562727 (https://doi.org/10.5281/zenodo.20562727) |
 | Anonymous review link | [view-only/anonymized link if required] |
 | License | Code & derived materials: CC BY 4.0 |
-| Version / date | v1.0 / 2026 |
+| Version / date | v1.1 / 2026 |
 | Contact | Kazım Çelik, kcelik@pau.edu.tr |
 
 ## 2. License and Citation
@@ -191,6 +191,7 @@ Key decisions, documented to preempt reviewer questions:
 | Version | Date | Change |
 |---------|------|--------|
 | v1.0 | 2026 | Initial submission version |
+| v1.1 | 2026 | Documentation update |
 
 ---
 
