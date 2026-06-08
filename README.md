@@ -35,7 +35,7 @@ Mexico (MEX); the analytic sample is 26,993 students nested in 891 schools.
 
 ## Software
 
-- R (version 4.x or later)
+- R version 4.5.3 (2026-03-11)
 - Key packages:
   - `BIFIEsurvey` (3.8) — design-based two-level regression with BRR weights
   - `lavaan` — multigroup confirmatory factor analysis (measurement invariance)
